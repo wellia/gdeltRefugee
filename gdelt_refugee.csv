@@ -1,0 +1,528 @@
+GLOBALEVENTID,Actor1Code,Actor1Name,Actor1CountryCode,Actor1Type1Code,Actor2Code,Actor2Name,Actor2CountryCode,Actor2Type1Code,IsRootEvent,EventCode,EventBaseCode,EventRootCode,AvgTone,SOURCEURL
+1115151322,IGOUNOREFHCR,UNHCR,,IGO,ETHREF,ETHIOPIA,ETH,REF,1,71,71,7,-7.835820896,https://www.nigeriasun.com/news/273900138/unhcr-faces-critical-funding-gap-to-meet-needs-of-refugees-in-ethiopia
+1115163341,LAB,WORKER,,LAB,BUS,BUSINESS,,BUS,1,110,110,11,-0.487804878,https://winnipeg.ctvnews.ca/a-game-changer-manitoba-staffing-agency-helps-ukrainian-refugees-find-meaningful-work-1.6481522
+1115172463,,,,,UKR,KYIV,UKR,,1,42,42,4,-0.1715265866,https://www.wbko.com/2023/07/16/ukrainian-refugee-supports-family-with-art-sales-community-farmers-market/
+1115175737,REF,REFUGEE,,REF,,,,,1,51,51,5,-2.552204176,https://www.aljazeera.com/opinions/2023/7/16/refugees-need-more-than-food-and-housing
+1115180222,CVL,CITIZEN,,CVL,REF,REFUGEE,,REF,1,60,60,6,-0.5263157895,https://www.journal-topics.com/events/united-states/illinois/skokie-2/events/film-screening-refugee-lullaby/
+1115180236,EDU,SCHOOL,,EDU,BUS,BOSS,,BUS,1,130,130,13,-0.426742532,https://www.pressandjournal.co.uk/fp/news/aberdeen-aberdeenshire/5912611/aberdeen-schools-funding-ukrainian-refugees/
+1115180591,UKRREF,UKRAINE,UKR,REF,,,,,1,173,173,17,1.379310345,https://www.herald-dispatch.com/features_entertainment/5k-race-to-benefit-ukrainian-refugees/article_ddacaaf1-4ea2-5519-a86b-cb0c539ac22d.html
+1115203483,IRL,IRELAND,IRL,,REF,REFUGEE,,REF,1,43,43,4,0.25,https://www.bignewsnetwork.com/news/273900509/suspension-of-visa-free-travel-to-ireland-for-refugees-extended
+1115203736,REF,REFUGEE,,REF,,,,,1,50,50,5,-0.5309442279,https://www.sfgate.com/westport/article/syrian-refugee-family-9-settles-stratford-18163792.php
+1115205226,REF,REFUGEE,,REF,,,,,1,50,50,5,-0.5082592122,https://www.thehour.com/westport/article/syrian-refugee-family-9-settles-stratford-18163792.php
+1115209849,IRL,IRELAND,IRL,,REF,REFUGEE,,REF,1,172,172,17,0.2487562189,https://www.europesun.com/news/273900509/ireland-extends-ban-on-visa-free-travel-for-refugees-for-one-year
+1115210997,,,,,GOV,GOVERNMENT,,GOV,1,42,42,4,0.9036144578,https://www.darlingtonandstocktontimes.co.uk/news/23656929.north-yorkshire-council-awarded-830-000-support-ukrainian-refugees/
+1115225914,UGA,UGANDA,UGA,,REF,REFUGEE,,REF,1,20,20,2,-9.523809524,https://igad.int/events/national-review-workshop-on-the-draft-report-on-the-status-of-refugee-management-in-the-igad-region-and-igads-policy-framework-on-refugee-protection/
+1115237358,,,,,AFG,AFGHANISTAN,AFG,,1,42,42,4,-8.009708738,https://en.shafaqna.com/316774/abeyance-in-the-green-hell-situation-of-afghan-refugees-in-indonesia/
+1115237437,AFG,AFGHANISTAN,AFG,,AFGINSTAL,TALIBAN,AFG,INS,1,42,42,4,-5.640423032,https://www.ctvnews.ca/canada/afghan-refugees-defy-odds-to-escape-oppression-and-find-freedom-in-canada-1.6480913
+1115249021,GBR,UNITED KINGDOM,GBR,,DEU,NUREMBERG,DEU,,1,13,13,1,-7.112068966,https://morningstaronline.co.uk/article/b/calling-the-far-right-nazis-is-racist-scottish-cops-tell-refugee-solidarity-groups-in-erskine
+1115250062,COP,POLICE,,COP,BTNREF,BHUTANESE,BTN,REF,1,173,173,17,-9.765625,https://reviewnepal.com/national/police-arrest-tuladhar-who-was-out-on-bail-in-the-fake-bhutanese-refugee-case-again-for-his-involvement-in-the-lalitaniwas-land-scam-related-case.html
+1115254941,,,,,GBR,UNITED KINGDOM,GBR,,1,42,42,4,-0.4991680532,https://www.telegraph.co.uk/news/2023/07/16/british-families-paid-take-afghan-refugees-reduce-hotels/
+1115264295,IGOEUREEC,EUROPEAN PARLIAMENT,EUR,IGO,SYR,SYRIAN,SYR,,1,51,51,5,-6.666666667,https://www.islamicinvitationturkey.com/sayyed-safieddine-eu-resolution-pertaining-syrian-refugees-is-heinous-insolent-intervention/
+1115264521,UKR,UKRAINE,UKR,,CVL,RESIDENTS,,CVL,1,111,111,11,-1.864801865,https://www.longfordleader.ie/news/property/1249504/twenty-six-modular-homes-for-ukrainian-refugees-now-in-place-at-midlands-site.html
+1115266628,IGOUNOREFHCR,UNHCR,,IGO,ETHREF,ETHIOPIA,ETH,REF,1,71,71,7,-7.777777778,https://famagusta-gazette.com/2023/07/17/unhcr-faces-critical-funding-gap-to-meet-needs-of-refugees-in-ethiopia/
+1115275258,GOV,GOVERNMENT,,GOV,UKR,UKRAINE,UKR,,1,42,42,4,-1.273621193,https://www.thetimes.co.uk/article/british-bureaucracy-fails-to-give-urgent-help-to-ukrainian-refugees-m5r2th8d5
+1115276628,AUS,AUSTRALIA,AUS,,,,,,1,70,70,7,1.404055615,https://www.miragenews.com/temporary-visas-fail-to-improve-refugee-mental-1047694/
+1115280807,CVL,COMMUNITY,,CVL,REF,REFUGEE,,REF,1,42,42,4,-7.118644068,https://reliefweb.int/report/cameroon/accelerating-inclusion-refugee-children-what-we-have-learned-and-what-it-takes
+1115308604,,,,,BGDREF,BANGLADESH,BGD,REF,1,51,51,5,1.583710407,https://www.zawya.com/en/press-release/companies-news/kfaed-krcs-support-humanitarian-projects-for-rohingya-refugees-in-bangladesh-d6biqzp1
+1115310937,FRA,FRANCE,FRA,,REFMED,REFUGEE,,REF,1,75,75,7,4.301075269,https://www.dawn.com/news/1765095/france-gives-3m-euros-aid-for-refugees
+1115317791,,,,,AFG,AFGHAN,AFG,,1,40,40,4,-0.7462686567,https://tribune.net.ph/2023/07/17/phl-still-in-talks-with-us-regarding-afghan-refugees/
+1115320003,AUS,AUSTRALIA,AUS,,AUSGOV,KEVIN RUDD,AUS,GOV,1,43,43,4,-4.958677686,https://www.4eb.org.au/news/exhibition-marks-ten-years-of-refugee-offshore-detention/
+1115331603,ARE,EMIRATI,ARE,,REF,REFUGEE,,REF,1,71,71,7,0.8385744235,https://www.alliancemagazine.org/blog/emirati-fund-announces-new-grants-to-tackle-refugee-skills-gap-and-unemployment/
+1115331821,DEUGOVLAB,URSULA VON DER LEYEN,DEU,GOV,TUN,TUNISIAN,TUN,,1,57,57,5,-1.724137931,https://www.dutchnews.nl/2023/07/tunisia-deal-will-restrict-refugee-flow-dutch-pm-rutte-says/
+1115337824,,,,,GOV,GOVERNMENT,,GOV,1,36,36,3,-5.387205387,https://www.dutchnews.nl/2023/07/compensation-for-refugees-facing-long-procedures-to-hit-e55m/
+1115342318,,,,,GOV,HOME MINIST,,GOV,1,20,20,2,-7.049608355,https://dailyexpress.com.my/news/216443/myanmar-refugee-activist-abducted-group-says/
+1115353755,CAN,CANADA,CAN,,CANCOP,ONTARIO,CAN,COP,1,73,73,7,-4.770318021,https://www.thespreadit.com/priest-refugee-money-70886/
+1115368875,TUR,TURKEY,TUR,,AFG,KABUL,AFG,,1,63,63,6,-13.33333333,https://pajhwok.com/2023/07/17/turkey-deports-138-illegal-afghan-refugees/
+1115378574,GOV,GOVERNMENT,,GOV,CAN,CANADA,CAN,,1,90,90,9,-3.034482759,https://www.thestar.com/opinion/contributors/2023/07/17/contrary-to-popular-belief-canada-does-not-treat-refugees-very-well-at-all.html
+1115378965,COP,POLICE,,COP,REF,REFUGEE,,REF,1,182,182,18,-15,https://athens-times.com/wild-scenery-in-leros-the-refugees-were-attacked-with-axes-and-stones-at-police/
+1115384089,AFR,AFRICA,AFR,,CAF,CENTRAL AFRICAN REPUBLIC,CAF,,1,84,84,8,-5.223880597,https://www.africa-newsroom.com/press/central-african-republic-car-medecins-sans-frontieres-msf-vaccinates-thousands-of-children-after-arrival-of-refugees-from-sudan
+1115396880,GOV,FOREIGN MINIST,,GOV,SYR,SYRIA,SYR,,1,36,36,3,-3.968253968,https://www.naharnet.com/stories/en/299020-ministerial-delegation-to-visit-syria-over-refugee-repatriation
+1115399148,,,,,IRQ,IRAQI,IRQ,,1,40,40,4,-5.927342256,https://www.newarab.com/news/iraq-extradites-three-syrian-kurds-refugees-syria
+1115403204,AFG,AFGHAN,AFG,,TUR,TURKEY,TUR,,1,20,20,2,-13.38912134,https://www.khaama.com/turkey-deports-138-undocumented-afghan-refugees/
+1115411980,UKR,UKRAINE,UKR,,BUS,COMPANY,,BUS,1,70,70,7,0.5240447873,https://www.lebanondemocrat.com/news/national/airbnb-prioritizes-refugee-support-with-a-2-million-initiative/article_2eb09b2c-e5dd-5e6a-a161-da64f2dbd755.html
+1115414172,,,,,CAN,TORONTO,CAN,,1,241,24,2,-6.027820711,https://www.cp24.com/news/group-calls-for-head-of-toronto-s-shelter-system-to-resign-amid-refugee-crisis-1.6482713
+1115414578,CAN,CANADA,CAN,,CVL,PRIVATE CITIZEN,,CVL,1,10,10,1,-0.4052332128,https://www.cp24.com/news/toronto-entrepreneur-pledges-20k-to-house-refugees-stuck-on-city-streets-1.6482591
+1115415396,IRL,IRELAND,IRL,,,,,,1,16,16,1,-6.103124444,https://carlow-nationalist.ie/2023/07/17/former-ceo-of-charity-helping-ukrainian-refugees-vacates-offices-after-court-order/
+1115415397,IRL,IRELAND,IRL,,,,,,1,16,16,1,-4.245710985,https://www.breakingnews.ie/ireland/former-ceo-of-charity-helping-ukrainian-refugees-vacates-offices-after-court-order-1503370.html
+1115425374,USA,PORTLAND,USA,,,,,,1,333,33,3,-1.875,https://www.wweek.com/news/2023/07/17/readers-respond-to-gender-refugees-monkey-business-and-vaccinations/
+1115425705,CAN,TORONTO,CAN,,REF,REFUGEE,,REF,1,42,42,4,-6.046511628,https://toronto.ctvnews.ca/group-calls-for-head-of-toronto-s-shelter-system-to-resign-amid-refugee-crisis-1.6482784
+1115429483,AUS,AUSTRALIA,AUS,,PTY,POLITICIAN,,,1,43,43,4,-3.494623656,https://athens-times.com/demonstrations-of-thousands-of-australians-for-refugees/
+1115431319,,,,,BTNREF,BHUTANESE,BTN,REF,1,84,84,8,-14.35643564,https://myrepublica.nagariknetwork.com/news/freed-in-fake-bhutanese-refugee-scam-suspect-arrested-in-lalita-niwas-land-grab-scam/
+1115431502,AFG,AFGHAN,AFG,,TUR,TURKEY,TUR,,1,20,20,2,-13.2780083,https://thefrontierpost.com/turkey-deports-138-undocumented-afghan-refugees/
+1115431530,AFR,AFRICA,AFR,,IGOEUREEC,EUROPEAN UNION,EUR,IGO,1,84,84,8,-5.53633218,https://www.africa-newsroom.com/press/european-uniontunisia-agreement-on-migration-makes-eu-complicit-in-abuses-against-asylum-seekers-refugees-and-migrants
+1115432248,IRL,IRELAND,IRL,,REF,REFUGEE,,REF,1,160,160,16,-0.2212389381,https://thefrontierpost.com/ireland-extends-suspension-of-visa-free-travel-for-people-with-refugee-status/
+1115447943,RUS,RUSSIAN,RUS,,,,,,1,50,50,5,-1.086956522,https://www.irvinetimes.com/news/23660964.many-ukraine-refugees-settled-north-ayrshire/
+1115450631,PAK,PAKISTAN,PAK,,AFG,AFGHANISTAN,AFG,,1,51,51,5,2.264808362,https://thefrontierpost.com/francis-govt-to-extend-e3m-support-for-afghan-refugees-in-pakistan/
+1115452002,,,,,AFG,AFGHAN,AFG,,1,33,33,3,0.7929515419,https://www.wibw.com/2023/07/17/federal-legislation-introduced-expand-legal-status-certain-afghan-refugees/
+1115452714,GOV,GOVERNMENT,,GOV,USAGOV,THE US,USA,GOV,1,14,14,1,-3.374233129,https://businessmirror.com.ph/2023/07/18/major-obstacles-hinder-proposed-hosting-of-afghan-refugees-pbbm/
+1115460291,,,,,SDN,SUDAN,SDN,,1,40,40,4,-4.334828102,https://theworld.org/stories/2023-07-17/calls-uk-welcome-sudanese-refugees-same-way-ukrainians
+1115471198,COP,SECURITY FORCE,,COP,GOVMED,NATIONAL NEWS AGENCY,,GOV,1,10,10,1,-14.54633778,https://www.bignewsnetwork.com/news/273902035/lebanons-security-forces-strained-as-refugee-crimes-mount-security-chief
+1115486638,CAN,CANADA,CAN,,REF,REFUGEE,,REF,1,112,112,11,-2.148383041,https://torontosun.com/opinion/columnists/agar-trudeau-wont-take-blame-for-failing-refugees
+1115494687,,,,,LBY,TRIPOLI,LBY,,1,42,42,4,-2.922077922,https://www.jurist.org/news/2023/07/sudan-refugees-report-inadequate-aid-and-delays-at-libya-unhcr-office/
+1115508897,LBN,LEBANON,LBN,,SYR,SYRIA,SYR,,1,12,12,1,-12.90322581,https://article.wn.com/view/2023/07/17/Lebanons_security_forces_strained_as_refugee_crimes_mount_se/
+1115513284,NGOHRIHRW,HUMAN RIGHTS WATCH,,NGO,,,,,1,181,181,18,-4.97382199,https://www.malaymail.com/news/malaysia/2023/07/18/cops-launch-missing-persons-inquiry-after-reported-abduction-of-myanmar-refugee-activist-family-from-kl-home/80304
+1115515144,FRAGOV,FRANCE,FRA,GOV,AFG,AFGHAN,AFG,,1,51,51,5,2.581074893,https://www.radio.gov.pk/18-07-2023/france-announces-support-to-afghan-refugees-in-pakistan-iran
+1115527963,,,,,IRN,IRAN,IRN,,1,42,42,4,-1.284490961,https://nondoc.com/2023/07/18/everything-sad-is-untrue-an-iranian-refugee-in-edmond/
+1115530233,IGOUNO,UNITED NATIONS,,IGO,JEW,JEWISH,,,1,20,20,2,-3.857566766,https://boulderjewishnews.org/2023/letter-background-on-refugee-issue/
+1115531462,,,,,GBR,UNITED KINGDOM,GBR,,1,42,42,4,0.7376185458,https://metro.co.uk/2023/07/18/as-a-child-refugee-i-fell-in-love-with-comics-now-i-write-for-marvel-19079741/
+1115533815,FRA,FRANCE,FRA,,AFG,AFGHAN,AFG,,1,33,33,3,2.547770701,https://www.bolnews.com/pakistan/2023/07/france-announces-3-mn-euros-aid-for-afghan-refugees-in-pakistan-iran/
+1115539675,,,,,AUS,AUSTRALIAN,AUS,,1,42,42,4,0.5912751626,https://www.3ba.com.au/local-news/ballarat-based-sri-lankan-refugee-to-take-his-fight-to-the-pms-sydney-office/
+1115547986,PAKMIL,PAKISTAN,PAK,MIL,PAK,PAKISTAN,PAK,,1,12,12,1,-5.01899696,https://www.khaama.com/no-indication-refugees-from-afghanistan-engaged-in-terrorism-in-pakistan-white-house/
+1115547987,PAKMIL,PAKISTAN,PAK,MIL,PAK,PAKISTAN,PAK,,1,12,12,1,-5.357142857,https://www.ariananews.af/no-indication-afghan-refugees-in-pakistan-have-engaged-in-terrorism-white-house/
+1115556183,GBR,UNITED KINGDOM,GBR,,,,,,1,10,10,1,-0.253164557,https://www.getreading.co.uk/whats-on/whats-on-news/ukraine-refugees-living-chris-tarrants-25365408
+1115556527,LBN,LEBANON,LBN,,GOVMED,NATIONAL NEWS AGENCY,,GOV,1,10,10,1,-14.65968586,https://www.arabherald.com/news/273902035/lebanons-security-forces-strained-as-refugee-crimes-mount-security-chief
+1115566044,IGOUNOREFHCR,UNHCR,,IGO,GBRGOV,UNITED KINGDOM,GBR,GOV,1,18,18,1,-6.352249415,https://www.scoop.co.nz/stories/WO2307/S00136/uk-illegal-migration-bill-profound-impact-on-human-rights-and-international-refugee-protection-system.htm
+1115572697,,,,,GBR,UNITED KINGDOM,GBR,,1,43,43,4,-0.2123078161,https://www.stokesentinel.co.uk/news/stoke-on-trent-news/refugee-smuggled-uk-back-lorry-8591908
+1115578523,GBR,UNITED KINGDOM,GBR,,CVL,MIGRANT,,CVL,1,43,43,4,-7.911392405,https://www.scotsman.com/news/world/illegal-migration-bill-could-have-adverse-effect-on-global-refugee-rights-4222443
+1115578668,,,,,REF,REFUGEE,,REF,1,42,42,4,-5.974842767,https://reliefweb.int/report/jordan/food-security-number-refugees-jordan-q1-2023
+1115598854,CVL,MIGRANT,,CVL,,,,,1,73,73,7,-5.394190871,https://thechronicle.com.gh/libyan-authorities-rescue-refugees-in-desert-near-tunisia/
+1115602027,CAN,CANADA,CAN,,,,,,1,15,15,1,-3.140041225,https://www.thestar.com/opinion/contributors/2023/07/18/refugees-forced-to-live-on-the-streets-of-toronto-is-a-national-disgrace-justin-trudeaus-liberals-should-wear-it.html
+1115603341,ZMB,ZAMBIAN,ZMB,,GOV,GOVERNMENT,,GOV,1,10,10,1,-4.231625835,https://www.lusakatimes.com/2023/07/18/give-refugees-zambian-citizenshipzclu-urges-government/
+1115604440,,,,,BUS,COMPANIES,,BUS,1,42,42,4,-5.206136789,https://news.yahoo.com/registering-refugees-using-personal-information-123007437.html
+1115607656,COP,POLICE OFFICER,,COP,UKR,UKRAINIAN,UKR,,1,173,173,17,-3.488372093,https://metro.co.uk/2023/07/18/ukrainian-refugee-who-ran-off-with-married-brit-bit-a-police-officer-19146595/
+1115612977,,,,,MYS,PUTRAJAYA,MYS,,1,173,173,17,-5.864197531,https://www.thestar.com.my/aseanplus/aseanplus-news/2023/07/18/fake-documents-myanmar-refugee039s-one-man-op-busted-by-malaysian-immigration
+1115616510,ISRGOV,ISRAEL,ISR,GOV,JEWHSD010,CHABAD,,,1,46,46,4,-9.803921569,https://collive.com/israeli-minister-launches-program-for-200-jews-refugees-from-ukraine/
+1115619655,,,,,EDU,SCHOOL,,EDU,1,874,87,8,-3.360514832,https://reliefweb.int/report/jordan/tight-funding-forces-wfp-reduce-food-assistance-syrian-refugees-jordan-including-camps
+1115623605,IND,JAMMU AND KASHMIR,IND,,REF,REFUGEE,,REF,1,173,173,17,-10.22044088,https://www.aa.com.tr/en/asia-pacific/protesting-rohingya-refugees-tear-gassed-at-detention-center-in-kashmir/2948758
+1115631328,COP,POLICE OFFICER,,COP,UKR,UKRAINE,UKR,,1,112,112,11,-4.41898527,https://www.lbc.co.uk/news/ukrainian-refugee-bit-police-miss-court/
+1115636115,,,,,CRM,OUTLAW,,CRM,1,63,63,6,-6.776859504,https://www.presstv.ir/Detail/2023/07/18/707285/UK-refugee-crackdown-bill-at-odds-with-international-law--
+1115636417,CAN,TORONTO,CAN,,GOV,GOVERNMENT,,GOV,1,233,23,2,-1.678504989,https://www.theglobeandmail.com/canada/article-ottawa-pledges-97-million-to-toronto-for-refugee-shelter-costs/
+1115643159,CAN,TORONTO,CAN,,REF,REFUGEE,,REF,1,75,75,7,-2.512562814,https://www.cp24.com/news/canada-providing-nearly-100m-to-help-refugees-seeking-shelter-in-toronto-1.6484147
+1115644498,UKRREF,UKRAINE,UKR,REF,,,,,1,173,173,17,1.379310345,https://www.loganbanner.com/news/5k-race-to-benefit-ukrainian-refugees/article_02913445-df38-598b-9fdc-d378b1494ca5.html
+1115645393,CAN,OTTAWA,CAN,,CANREF,TORONTO,CAN,REF,1,333,33,3,-2.801676318,https://www.thestar.com/politics/provincial/2023/07/18/doug-ford-says-trudeau-government-must-do-more-to-help-refugee-crisis-in-toronto.html
+1115651697,,,,,IGOREFIOM,INTERNATIONAL ORGANIZATION FOR MIGRATION,,IGO,1,80,80,8,-8.941542159,https://www.theaustralian.com.au/news/latest-news/fears-of-sudan-refugee-influx-to-west-misplaced-us-official/news-story/baeb0ef139279a7f695e67af6f2dbce1?nk=f74b595514341d730caa90d9ee47785b-1689699753
+1115651699,,,,,IGOREFIOM,INTERNATIONAL ORGANIZATION FOR MIGRATION,,IGO,1,80,80,8,-9.31559425,https://news.yahoo.com/fears-sudan-refugee-influx-west-164232599.html
+1115654867,,,,,AFG,AFGHANISTAN,AFG,,1,36,36,3,-1.548672566,https://news.yahoo.com/afghan-refugees-move-uk-hotels-165401590.html
+1115656448,SDN,SUDANESE,SDN,,USAGOV,US OFFICIAL,USA,GOV,1,10,10,1,-9.686609687,https://www.weeklytimesnow.com.au/news/breaking-news/fears-of-sudan-refugee-influx-to-west-misplaced-us-official/news-story/baeb0ef139279a7f695e67af6f2dbce1?nk=1a8a007c368b73794917cc65993a30c5-1689700633
+1115660653,,,,,REF,REFUGEE,,REF,1,42,42,4,-5.970149254,https://www.mykxlg.com/news/world/un-agency-slashes-cash-aid-to-syrian-refugees-in-jordan-raising-the-alarm-on-its/article_769e7f3e-8f7a-5079-a1fa-bc70e43c51e0.html
+1115661430,JEW,JEWISH,,,JEWHSD010,CHABAD,,,1,42,42,4,0.6772009029,https://www.jewishpress.com/news/global/europe/ukraine/chabad-of-poland-mosaic-united-israels-diaspora-ministry-unite-to-host-jewish-ukrainian-refugees/2023/07/18/
+1115661948,SYR,SYRIAN,SYR,,,,,,1,71,71,7,-7.58332141,https://www.burnabynow.com/world-news/un-agency-slashes-cash-aid-to-syrian-refugees-in-jordan-raising-the-alarm-on-its-funding-crunch-7292044
+1115662473,OPP,PROTESTER,,OPP,REF,REFUGEE,,REF,1,12,12,1,-8.816120907,https://karennews.org/2012/04/refugees-protest-for-un-registration-to-resettle-in-a-third-country/
+1115679378,,,,,REF,REFUGEE,,REF,1,42,42,4,-4.060913706,https://www.wuwm.com/2023-07-18/owner-of-a-lonely-heart-beth-nguyens-journey-from-refugee-to-motherhood
+1115684200,CAN,TORONTO,CAN,,GOV,PREMIER,,GOV,1,70,70,7,-1.965065502,https://www.theepochtimes.com/ford-says-ottawa-must-do-more-to-help-resettle-refugees-in-toronto_5406389.html
+1115687389,IGOUNO,UNITED NATIONS,,IGO,,,,,1,60,60,6,-7.221105644,https://www.foxnews.com/world/un-food-agency-cut-cash-aid-120000-syrian-refugees-jordan-amid-unprecedented-funding-crisis
+1115687453,JOR,JORDANIAN,JOR,,JORGOV,JORDAN,JOR,GOV,1,12,12,1,-6.282894737,https://www.thestar.com.my/news/world/2023/07/19/un-refugee-agency-calls-for-immediate-action-to-address-funding-crisis-in-jordan
+1115690388,SYRREF,SYRIAN,SYR,REF,JORREF,JORDAN,JOR,REF,1,162,162,16,-6.95035461,https://www.foxnews.com/world/un-food-agency-cut-cash-aid-120000-syrian-refugees-jordan-amid-unprecedented-funding-crisis.print
+1115691737,EDU,SCHOLAR,,EDU,POL,POLISH,POL,,1,42,42,4,0.1396648045,https://dentonrc.com/denton_u/twu-professor-supports-teachers-of-ukrainian-refugees/article_1a8aaaa6-8e8b-5f7a-a3a3-3c3eea066fdc.html
+1115693495,USAGOV,US OFFICIAL,USA,GOV,SDN,SUDANESE,SDN,,1,13,13,1,-9.217877095,https://www.barrons.com/news/fears-of-sudan-refugee-influx-to-west-misplaced-us-official-17cb9088
+1115699547,IGOUNOREFHCR,UNHCR,,IGO,REFCVL,REFUGEE,,REF,1,43,43,4,-5.536912752,https://african.business/2023/07/apo-newsfeed/refugees-journey-from-khartoum-to-the-camps-in-east-sudan
+1115701006,EDU,COLLEGE,,EDU,,,,,1,111,111,11,-4.528985507,https://www.irishtimes.com/politics/2023/07/18/rock-thrown-through-window-of-councillors-family-home-with-warning-to-stop-supporting-refugees/
+1115701065,,,,,CANREF,TORONTO,CAN,REF,1,51,51,5,-4.444444444,https://www.canindia.com/canada-announces-nearly-100-million-in-housing-support-for-refugees-in-toronto/
+1115703855,CVL,NATIONALS,,CVL,tam,TAMIL,,,1,173,173,17,-3.349282297,https://www.tamilguardian.com/content/mother-eelam-tamil-refugee-writes-letter-president-expedite-his-repatriation
+1115708454,IRQ,IRAQI,IRQ,,SYR,SYRIA,SYR,,1,40,40,4,-10.12269939,https://syrianobserver.com/news/84059/baghdad-arrests-70-syrian-refugees-fears-of-handing-them-to-assads-intelligence.html
+1115710271,CAN,TORONTO,CAN,,REF,REFUGEE,,REF,1,190,190,19,-4.320987654,https://nowtoronto.com/news/toronto-to-receive-97m-from-ottawa-to-combat-refugee-housing-crisis/
+1115711966,,,,,EDU,SCHOOL,,EDU,1,874,87,8,-4.45026178,http://jordantimes.com/news/local/tight-funding-forces-wfp-reduce-assistance-syrian-refugees-jordan
+1115712077,,,,,REF,REFUGEE,,REF,1,42,42,4,-7.989690722,http://jordantimes.com/news/local/intl-community-urged-%E2%80%98recognise-risks-ahead%E2%80%99-amid-refugee-funding-shortfall
+1115713861,CAN,TORONTO,CAN,,,,,,1,75,75,7,-1.941747573,https://www.ipolitics.ca/news/feds-give-toronto-97m-for-refugee-claimants-ford-calls-for-more
+1115725981,EDU,SCHOLAR,,EDU,POL,POLISH,POL,,1,42,42,4,0,https://dentonrc.com/denton_u/twu-professor-helps-polish-teachers-reach-ukrainian-refugees/article_1a8aaaa6-8e8b-5f7a-a3a3-3c3eea066fdc.html
+1115727114,IGOUNOKID,UNICEF,,IGO,TTO,TRINIDAD AND TOBAGO,TTO,,1,30,30,3,0.2277904328,https://reliefweb.int/report/trinidad-and-tobago/un-tt-welcomes-decision-include-migrant-and-refugee-children-national-education
+1115730234,IGOUNOREF,THE UN,,IGO,JOR,JORDAN,JOR,,1,71,71,7,-12.6984127,https://article.wn.com/view/2023/07/18/UN_refugee_agency_calls_for_immediate_action_to_address_fund/
+1115730806,SYR,SYRIAN,SYR,,JORREF,JORDAN,JOR,REF,1,71,71,7,-7.792207792,https://www.wgmd.com/un-food-agency-to-cut-cash-aid-for-120000-syrian-refugees-in-jordan-amid-unprecedented-funding-crisis/
+1115732403,COP,POLICE OFFICER,,COP,,,,,1,50,50,5,-4.021053255,https://www.telegraphindia.com/feeds/india/jk-rohingya-refugees-clash-with-police-demand-their-freedom-or-repatriation-to-myanmar/cid/1952938
+1115736757,AFG,AFGHAN,AFG,,IGOUNO,UNITED NATIONS,,IGO,1,42,42,4,-9.136212625,https://pakobserver.net/afghan-refugees-in-pakistan/
+1115744436,,,,,IGOREFIOM,INTERNATIONAL ORGANIZATION FOR MIGRATION,,IGO,1,80,80,8,-9.162303665,https://www.theaustralian.com.au/news/latest-news/fears-of-sudan-refugee-influx-to-west-misplaced-us-official/news-story/baeb0ef139279a7f695e67af6f2dbce1?nk=394de7c65cf9dbe2696641309bfd2a1b-1689733018
+1115753949,AUS,AUSTRALIA,AUS,,,,,,1,20,20,2,4.651162791,https://www.bluemountainsgazette.com.au/story/8270118/i-am-very-happy-to-be-here-after-living-in-detention-for-so-long-afghan-refugees-find-safety/?cs=793
+1115758371,SYR,SYRIAN,SYR,,,,,,1,71,71,7,-7.746478873,https://www.mymotherlode.com/news/middle-east/3176267/un-agency-slashes-cash-aid-to-syrian-refugees-in-jordan-raising-the-alarm-on-its-funding-crunch.html
+1115759961,,,,,MMR,MYANMAR,MMR,,1,173,173,17,-5.828220859,https://asianews.network/fake-documents-myanmar-refugees-one-man-op-busted-by-malaysian-immigration/
+1115760635,IGOUNOREFHCR,UNHCR,,IGO,REFCVL,REFUGEE,,REF,1,43,43,4,-5.536912752,https://venturesafrica.com/apostories/refugees-journey-from-khartoum-to-the-camps-in-east-sudan/
+1115760925,MED,WEBSITE,,MED,,,,,1,120,120,12,1.527138562,https://www.anandabazar.com/world/uks-new-refugee-policy-is-ready-to-become-law/cid/1445963
+1115769666,,,,,REF,REFUGEE,,REF,1,40,40,4,0,https://www.shropshirestar.com/news/politics/ukraine-war/2023/07/19/ukrainian-refugees-attend-morale-boosting-event-thanks-to-south-shropshire-borders-support-groups/
+1115777568,,,,,EDU,SCHOOL,,EDU,1,874,87,8,-3.501094092,https://www.arabherald.com/news/273903244/tight-funding-forces-wfp-to-reduce-food-assistance-for-syrian-refugees-in-jordan-including-in-camps
+1115777783,CHE,GENEVA,CHE,,GOV,GOVERNMENT,,GOV,1,57,57,5,-5.432937182,https://newsday.co.tt/2023/07/19/revise-laws-to-welcome-venezuelan-refugees/
+1115784179,,,,,KEN,KENYA,KEN,,1,36,36,3,-5.434782609,https://www.businessghana.com/site/news/Politics/290119/US-envoy-to-make-refugee-plea-in-Kenya-amid-Sudan-crisis
+1115786811,AUS,AUSTRALIA,AUS,,AUSGOV,KEVIN RUDD,AUS,GOV,1,73,73,7,-5.797101449,https://www.greenleft.org.au/content/refugee-rights-activsts-jim-chalmers-10-years-too-long
+1115787826,REF,REFUGEE,,REF,,,,,1,17,17,1,-5.295315682,https://www.amnesty.org.au/nationwide-refugee-rallies-mark-10-year-anniversary-of-offshore-detention-and-resettlement-cruelty/
+1115794862,SDN,SUDANESE,SDN,,TCD,CHAD,TCD,,1,51,51,5,0,https://www.bignewsnetwork.com/news/273903586/chad-based-uae-field-hospital-in-amdjarass-treats-1220-sudanese-refugees-since-opening
+1115797079,REF,REFUGEE,,REF,SOM,SOMALIA,SOM,,1,42,42,4,-12.30769231,https://reliefweb.int/report/somalia/unhcr-somalia-refugees-and-asylum-seekers-30-june-2023
+1115800853,,,,,MILMIL,ARMY,,MIL,1,190,190,19,-6.578947368,https://www.thenationalnews.com/uae/government/2023/07/19/uaes-field-hospital-in-chad-treats-1220-sudanese-refugees/
+1115803414,,,,,BGD,BANGLADESHI,BGD,,1,173,173,17,-2.436998061,https://indianexpress.com/article/north-east-india/assam-police-arrest-tripura-man-over-trafficking-of-rohingya-refugees-8848107/
+1115815284,,,,,MYS,MALAYSIAN,MYS,,1,60,60,6,-5.637982196,https://borneobulletin.com.bn/fake-documents-myanmar-refugees-one-man-op-busted/
+1115817833,MDVREF,MALE,MDV,REF,,,,,1,120,120,12,-7.058823529,https://www.theargus.co.uk/news/23663981.northeye-bexhill-former-prison-house-1-000-refugees/
+1115825406,IGOUNOWFP,WORLD FOOD PROGRAM,,IGO,,,,,1,60,60,6,-6.072874494,https://www.i24news.tv/en/news/middle-east-stories/1689758163-un-reduces-aid-to-syrian-refugees-in-jordan-citing-low-funding
+1115828957,AFR,AFRICA,AFR,,TUN,TUNISIA,TUN,,1,84,84,8,-6.318082789,https://www.africa-newsroom.com/press/tunisia-no-safe-haven-for-black-african-migrants-refugees
+1115832008,COP,DEPUTY,,COP,GOV,MINIST,,GOV,1,40,40,4,3.47826087,https://www.southeastradio.ie/calls-for-refugee-co-ordinator-in-enniscorthy/
+1115837189,CAN,CANADA,CAN,,,,,,1,70,70,7,-1.436443608,https://www.thestar.com/opinion/letters_to_the_editors/2023/07/19/welcoming-refugees-we-cannot-accommodate-letters-to-the-editor.html
+1115837208,CAN,TORONTO,CAN,,REF,REFUGEE,,REF,1,40,40,4,-2.993041417,https://www.winnipegfreepress.com/uncategorized/2023/07/19/refugee-shelter-crisis-first-item-at-chows-first-council-meeting-as-toronto-mayor
+1115843743,IGOUNOREFHCR,UNHCR,,IGO,JORREF,JORDAN,JOR,REF,1,12,12,1,-6.451612903,https://famagusta-gazette.com/2023/07/19/unhcr-express-concern-for-refugees-in-jordan/
+1115884635,CAN,CANADA,CAN,,,,,,1,20,20,2,-0.7509627728,https://www.chch.com/refugee-shelter-crisis-first-item-at-chows-first-council-meeting-as-toronto-mayor/
+1115896801,,,,,UKR,ODESA,UKR,,1,130,130,13,-1.991886685,https://londonlovesbusiness.com/putin-trying-to-create-refugee-crisis-after-intentionally-blowing-up-60000-tons-of-grain-in-odesa/
+1115899728,JOR,JORDANIAN,JOR,,REF,REFUGEE,,REF,1,130,130,13,-8.333333333,https://morningstaronline.co.uk/article/w/un-cut-aid-syrian-refugees-due-unprecedented-funding-crisis
+1115899745,,,,,AFR,AFRICA,AFR,,1,42,42,4,-6.93481276,https://www.wkrg.com/state-regional/humanitarian-shares-the-turmoil-of-refugee-children-caused-by-the-ethiopian-civil-war/
+1115902627,,,,,BUS,COMPANIES,,BUS,1,42,42,4,-4.761904762,https://techxplore.com/news/2023-07-registering-refugees-personal-poses-people.html
+1115902972,CAN,CANADA,CAN,,,,,,1,73,73,7,-8.238763417,https://toronto.ctvnews.ca/chow-calls-for-250-more-shelter-beds-for-refugees-as-key-item-in-1st-council-meeting-as-toronto-mayor-1.6485462
+1115911193,AFR,AFRICA,AFR,,NGOUSA,INTERNATIONAL RESCUE COMMITTEE,USA,NGO,1,84,84,8,-4.217926186,https://www.africa-newsroom.com/press/the-international-rescue-committee-irc-the-european-unions-migration-agreement-with-tunisia-risks-driving-migrants-and-refugees-onto-even-more-dangerous-routes
+1115919238,,,,,REF,REFUGEE,,REF,1,35,35,3,-1.831262263,https://reliefweb.int/job/3981300/refugee-status-determination-program-refugee-legal-officer
+1115924169,CAN,TORONTO,CAN,,REF,REFUGEE,,REF,1,51,51,5,-0.011765638,https://boom1019.com/news/9842371/refugee-shelter-crisis-olivia-chow-first-item-toronto/
+1115933826,REF,ASYLUM SEEKER,,REF,CAN,TORONTO,CAN,,1,75,75,7,-0.6525285481,https://www.theepochtimes.com/ontario-premier-and-toronto-mayor-urge-feds-to-take-further-action-on-shelter-support-for-refugees_5409014.html
+1115938046,,,,,REF,REFUGEE,,REF,1,73,73,7,-6.086956522,https://theconversation.com/healing-through-witnessing-documenting-the-stories-of-yazidi-refugees-in-canada-209294
+1115941282,REF,REFUGEE,,REF,CVL,MIGRANT WORKER,,CVL,1,192,192,19,-1.785714286,https://article.wn.com/view/2023/07/19/Pushing_climate_refugees_into_migrant_worker_programs/
+1115952944,JOR,AMMAN,JOR,,JORREF,JORDAN,JOR,REF,1,14,14,1,1.587301587,http://www.jordantimes.com/news/local/uae-red-crescent-johud-launch-refugee-empowerment-project
+1115954545,CAN,CANADA,CAN,,CANREF,CANADA,CAN,REF,1,71,71,7,-4.6875,https://www.ipolitics.ca/news/ford-chow-announce-more-funding-for-toronto-refugee-claimants-call-on-feds-to-pitch-in
+1115956344,LBN,LEBANON,LBN,,POL,POLAND,POL,,1,42,42,4,0.6451612903,https://www.northwichguardian.co.uk/news/national/23667575.organisation-sewing-reusable-sanitary-pads-refugees-gets-charity-status/
+1116248888,CAN,CANADA,CAN,,UKRREF,UKRAINE,UKR,REF,1,73,73,7,-3.658536585,https://www.theglobeandmail.com/canada/article-quebec-police-looking-for-ukrainian-refugee-missing-after-going-for/
+1116260294,CVL,SMALL TOWN,,CVL,SDN,SUDAN,SDN,,1,25,25,2,-4.816513761,https://venturesafrica.com/apostories/influx-of-sudanese-refugees-in-eastern-chad-children-threatened-by-malnutrition-and-measles/
+1116262227,KEN,KENYA,KEN,,,,,,1,90,90,9,-4.909193684,https://www.voanews.com/a/end-to-russia-grain-deal-a-blow-to-kenyan-refugees-already-short-on-food-/7190069.html
+1116266859,,,,,POL,POLAND,POL,,1,42,42,4,-3.193464978,https://www.rte.ie/news/2023/0721/1395706-ukraine-poland-refugee/
+1116285416,,,,,REF,REFUGEE,,REF,1,42,42,4,-3.372434018,https://foreignpolicy.com/2023/07/20/ukraine-war-russia-refugees-eu-policy-europe-education-employment/?tpcc=recirc_trending062921
+1116285824,EUR,EUROPEAN,EUR,,GOV,GOVERNMENT,,GOV,1,40,40,4,-1.492537313,https://www.romania-insider.com/romania-cohesion-funds-ukrainian-refugees
+1116298856,EUR,EUROPEAN,EUR,,GOV,GOVERNMENT,,GOV,1,36,36,3,-3,https://actmedia.eu/daily/romania-to-receive-eu-funds-worth-eur-400-million-for-spending-with-ukrainian-refugees/104058
+1116316907,CRM,PIRATE,,CRM,VNM,VIETNAM,VNM,,1,73,73,7,-1.706484642,https://www.sbs.com.au/news/article/born-on-a-refugee-boat-thu-fampidi-is-now-taking-swimming-lessons-to-overcome-her-fear-of-the-ocean/x55l3d1gx
+1116316936,CVL,COMMUNITY,,CVL,EDU,SCHOOL,,EDU,1,51,51,5,5.396825397,https://www.civic.md/anunturi/angajare/72533-integration-officer-at-charity-centre-for-refugees.html
+1116318084,REF,REFUGEE,,REF,UKR,UKRAINIAN,UKR,,1,20,20,2,3.740648379,https://www.civic.md/anunturi/angajare/72531-social-worker-at-charity-centre-for-refugees.html
+1116318684,,,,,REF,REFUGEE,,REF,1,130,130,13,-12.85714286,https://www.monitor.co.ug/uganda/news/national/food-crisis-opm-warns-refugees-against-planned-protest--4311042
+1116319224,GOV,MINIST,,GOV,IGOEUREEC,THE EUROPEAN UNION,EUR,IGO,1,13,13,1,-5.673758865,https://www.middleeastmonitor.com/20230721-fire-breaks-out-in-syrian-refugee-camp-in-lebanon/
+1116325231,EDU,UNIVERSITY,,EDU,,,,,1,70,70,7,6.712962963,https://www.thebusinessdesk.com/eastmidlands/news/2073695-university-of-leicester-honours-refugee-turned-entrepreneur/
+1116327043,GHA,GHANA,GHA,,REF,REFUGEE,,REF,1,43,43,4,-9.401631267,https://dailyguidenetwork.com/ghana-committed-to-refugee-conventions/
+1116331551,IGOUNO,UNITED NATIONS,,IGO,,,,,1,10,10,1,-3.783783784,https://reliefweb.int/report/nigeria/urban-refugees-nigeria-operational-update-may-2023-issue-2
+1116338823,AFGREF,AFGHANISTAN,AFG,REF,AFG,AFGHAN,AFG,,1,10,10,1,-1.558847401,https://thefrontierpost.com/uk-councils-ask-government-for-more-time-rehousing-afghan-refugees/
+1116341162,,,,,SOM,SOMALI,SOM,,1,42,42,4,-7.258064516,https://www.africanews.com/2023/07/21/somali-refugees-in-kenya-threatened-by-food-insecurity/
+1116344256,CVL,MIGRANT,,CVL,,,,,1,1822,182,18,-11.375,https://reliefweb.int/report/libya/libya-un-experts-alarmed-reports-trafficking-persons-arbitrary-detention-enforced-disappearances-and-torture-migrants-and-refugees
+1116346417,AFR,AFRICA,AFR,,LBY,LIBYA,LBY,,1,841,84,8,-17.43772242,https://www.africa-newsroom.com/press/libya-united-nations-un-experts-alarmed-at-reports-of-trafficking-in-persons-arbitrary-detention-enforced-disappearances-and-torture-of-migrants-and-refugees
+1116357403,FRA,FRENCH,FRA,,REF,REFUGEE,,REF,1,75,75,7,-6.223175966,https://www.express.co.uk/news/world/1793656/france-russia-defectors-refugee-status
+1116360125,EDU,COLLEGE,,EDU,,,,,1,51,51,5,6.46371654,https://bromsgrovestandard.co.uk/news/college-award-for-afghani-refugee-who-has-settled-in-bromsgrove45589/
+1116360247,GBR,UNITED KINGDOM,GBR,,REF,REFUGEE,,REF,1,36,36,3,0.4385964912,https://www.romfordrecorder.co.uk/news/23669273.havering-council-secures-6m-funding-housing-refugees/
+1116362509,,,,,VEN,VENEZUELA,VEN,,1,42,42,4,-3.820598007,http://www.baltimoresun.com/opinion/readers-respond/bs-ed-rr-world-refugee-day-letter-20230721-miymiwppvbattedryinamqtxtu-story.html
+1116365187,,,,,REF,REFUGEE,,REF,1,36,36,3,0.4761904762,https://www.thisislocallondon.co.uk/news/23669273.havering-council-secures-6m-funding-housing-refugees/
+1116369368,GOV,GOVERNMENT,,GOV,REF,REFUGEE,,REF,1,51,51,5,5.076142132,https://www.shannonside.ie/news/local-refugee-support-services-to-benefit-from-new-government-fund-227027
+1116371857,EDU,COLLEGE,,EDU,,,,,1,51,51,5,7.983193277,https://www.bromsgroveadvertiser.co.uk/news/23668064.bromsgrove-refugee-escaped-taliban-wins-student-award/
+1116373307,CAN,CANADA,CAN,,UKRREF,UKRAINE,UKR,REF,1,73,73,7,-5.347593583,https://www.cbc.ca/news/canada/montreal/ukrainian-refugee-missing-river-1.6912784
+1116387360,IGOEUREEC,EUROPEAN PARLIAMENT,EUR,IGO,REF,REFUGEE,,REF,1,51,51,5,-3.278688525,https://article.wn.com/view/2023/07/21/European_Parliaments_support_for_refugees_stay_in_Lebanon_un/
+1116398013,,,,,ETH,ETHIOPIA,ETH,,1,42,42,4,-6.211180124,https://addisstandard.com/newsalert-ethiopia-refugees-and-returnees-service-dg-announces-departure/
+1116404875,,,,,UKR,UKRAINIAN,UKR,,1,42,42,4,-5.518763797,https://thecaribbeancamera.com/african-refugees-dont-win-votes-like-europeans/
+1116419421,CVL,COMMUNITY,,CVL,EDU,SCHOOL,,EDU,1,42,42,4,-3.95480226,https://www.worldlearning.org/programarea/refugee-resettlement/
+1116430616,GHA,GHANA,GHA,,REF,REFUGEE,,REF,1,173,173,17,-7.259953162,https://www.modernghana.com/news/1246480/government-must-prosecute-refugees-caught-with.html
+1116436543,CAN,CANADA,CAN,,,,,,1,51,51,5,-0.2393866711,https://globalnews.ca/news/9847765/calgary-north-american-refugee-health-conference/
+1116465069,SYR,SYRIA,SYR,,USA,UNITED STATES,USA,,1,10,10,1,2.169625247,https://www.ksby.com/news/local-news/syrian-refugee-speaks-out-about-her-journey-to-the-united-states-for-the-first-time
+1116469496,CVL,MIGRANT,,CVL,REF,REFUGEE,,REF,1,1822,182,18,-17.4688057,https://venturesafrica.com/apostories/libya-united-nations-un-experts-alarmed-at-reports-of-trafficking-in-persons-arbitrary-detention-enforced-disappearances-and-torture-of-migrants-and-refugees/
+1116486570,EDU,SCHOOL,,EDU,GBRGOV,UNITED KINGDOM,GBR,GOV,1,160,160,16,-1.287553648,https://metro.co.uk/2023/07/22/primary-school-kids-flood-refugee-centre-with-drawings-after-murals-painted-over-19172649/
+1116492233,GHA,GHANA,GHA,,REF,REFUGEE,,REF,1,173,173,17,-7.045454545,https://newsghana.com.gh/refugees-caught-with-weapons-should-be-prosecuted-dr-adam-bonah/
+1116493520,CAN,CANADA,CAN,,CVL,COMMUNITY,,CVL,1,75,75,7,2.848101266,https://www.brandonsun.com/local/2023/07/22/refugee-gets-a-leg-up-through-links
+1116501185,GOV,IMMIGRATION MINIST,,GOV,,,,,1,51,51,5,-0.5982053838,https://inews.co.uk/news/education/school-children-drawings-refugees-government-removal-murals-2498240
+1116512460,REF,REFUGEE,,REF,,,,,1,10,10,1,-10.4,https://karennews.org/2013/08/tragedy-strikes-refugee-women/
+1116531355,ARE,EMIRATI,ARE,,TCD,CHAD,TCD,,1,90,90,9,0.6578947368,https://www.tag911.ae/news/local-news/emirati-delegation-inspects-uaes-chad-field-hospital-for-sudanese-refugees/
+1116532867,CAN,CANADA,CAN,,COP,POLICE,,COP,1,20,20,2,-3.062818343,https://www.bowenislandundercurrent.com/national-news/search-continues-for-ukrainian-refugee-who-went-missing-after-swim-in-quebec-river-7311934
+1116534258,CAN,CANADIAN,CAN,,UKR,UKRAINIAN,UKR,,1,90,90,9,-3.614212308,https://www.winnipegfreepress.com/canada/2023/07/22/search-continues-for-ukrainian-refugee-who-went-missing-after-swim-in-quebec-river
+1116538989,JEW,JEWISH,,,UKR,UKRAINIAN,UKR,,1,43,43,4,0,https://ejpress.org/israels-government-and-chabad-of-poland-team-up-to-provide-summer-programming-for-ukrainian-refugees/
+1116541574,CAN,CANADA,CAN,,UKRREF,UKRAINE,UKR,REF,1,90,90,9,0.3669724771,https://montrealgazette.com:443/news/quebec/search-continues-for-ukrainian-refugee-missing-after-swim-in-quebec-river
+1116558508,AUS,SYDNEY,AUS,,AUSREF,AUSTRALIA,AUS,REF,1,33,33,3,-2.773722628,https://www.thecourier.com.au/story/8275555/ballarat-refugee-advocate-to-walk-1000km-for-change/
+1116559805,ETH,ETHIOPIA,ETH,,IGOREFIOM,INTERNATIONAL ORGANIZATION FOR MIGRATION,,IGO,1,75,75,7,-3.816793893,https://newbusinessethiopia.com/politics/south-sudanese-refugees-set-to-get-new-shelter-in-ethiopia/
+1116568915,AFR,AFRICA,AFR,,BDI,BURUNDI,BDI,,1,192,192,19,2.451838879,https://buffalonews.com/news/local/habitat-for-humanity-provides-new-cheektowaga-homes-to-two-refugee-families-from-africa/article_7d3a139c-2899-11ee-bf29-0b4237ed0982.html
+1116572203,AUS,SYDNEY,AUS,,AUSREF,AUSTRALIA,AUS,REF,1,33,33,3,-2.731220373,https://www.hepburnadvocate.com.au/story/8275555/ballarat-refugee-advocate-to-walk-1000km-for-change/
+1116574050,GOV,AUTHORITIES,,GOV,COP,POLICE,,COP,1,20,20,2,-1.926956808,https://globalnews.ca/news/9850375/ukrainian-refugee-missing-quebec-river/
+1116575360,CHN,CHINA,CHN,,RUS,RUSSIA,RUS,,1,120,120,12,-8.157894737,https://www.dailymail.co.uk/news/article-12327855/Chinese-media-accused-pumping-pro-Russian-propaganda-Europe-stirring-hatred-Ukrainian-refugees-spreading-anti-Nato-messages.html
+1116581056,CHRPRO300,PRESBYTERIAN,,,FRA,FRANCE,FRA,,1,50,50,5,-1.582278481,https://www.herald-dispatch.com/news/saturday-5k-raises-funds-for-ukrainian-refugees/article_336ffb47-d540-5bd2-93a0-f9156c28d1e8.html
+1116588716,AUS,AUSTRALIA,AUS,,AUSREF,AUSTRALIA,AUS,REF,1,33,33,3,-2.765647744,https://www.stawelltimes.com.au/story/8275555/ballarat-refugee-advocate-to-walk-1000km-for-change/
+1116589714,AFR,AFRICA,AFR,,BDI,BURUNDI,BDI,,1,192,192,19,2.5,https://buffalonews.com/news/local/habitat-for-humanity-provides-new-cheektowaga-homes-to-refugee-families/article_7d3a139c-2899-11ee-bf29-0b4237ed0982.html
+1116608226,SDN,SUDANESE,SDN,,TCD,CHAD,TCD,,1,51,51,5,-0.9072431141,https://www.bignewsnetwork.com/news/273907849/chad-based-uae-field-hospital-treats-1744-sudanese-refugees-since-opening
+1116612760,,,,,SDNREF,SUDAN,SDN,REF,1,43,43,4,-2.0609319,https://www.cbc.ca/news/canada/calgary/syn-amanuel-first-person-refugee-1.6892865
+1116621207,,,,,MIL,MILITARY,,MIL,1,80,80,8,-13.63636364,https://timesofindia.indiatimes.com/city/guwahati/bangladeshi-girl-dies-of-malaria-in-mizoram-refugee-camp/articleshow/102054667.cms
+1116624136,CAN,OTTAWA,CAN,,NPL,NEPAL,NPL,,1,44,44,4,-2.604622364,https://lethbridgenewsnow.com/2023/07/23/refugee-claims-followed-montreal-aids-summit-marred-by-visa-woes-planning-issues/
+1116625720,,,,,REF,REFUGEE,,REF,1,42,42,4,-4.566210046,https://www.tanzanianewsreports.com/igad-seeking-immediate-humanitarian-assistance-for-significant-portion-of-refugees-in-the-region/
+1116625723,,,,,SSD,SOUTH SUDAN,SSD,,1,42,42,4,-4.580152672,https://newbusinessethiopia.com/politics/ethiopia-relocates-100000-south-sudanese-refugees-in-one-year/
+1116630894,BGD,BANGLADESH,BGD,,MMR,MYANMAR,MMR,,1,42,42,4,-1.887836565,https://reliefweb.int/report/bangladesh/unicef-against-odds-children-begin-new-school-year-rohingya-refugee-camps
+1116636245,NGOHLHIRC,RED CRESCENT,,NGO,TCD,CHAD,TCD,,1,70,70,7,0.4836163244,https://www.zawya.com/en/world/africa/uae-aid-plane-arrives-in-chad-carrying-food-parcels-for-sudanese-refugees-local-community-nexagyms
+1116645702,REF,REFUGEE,,REF,TCD,CHAD,TCD,,1,70,70,7,0.8403361345,https://www.khaleejtimes.com/uae/watch-uae-aid-plane-arrives-in-chad-carrying-food-parcels-for-refugees-local-community
+1116658261,COP,POLICE,,COP,,,,,1,173,173,17,-11.94968553,https://www.dw.com/en/masked-men-attack-refugee-home-in-eastern-germany-police/a-66323664
+1116659844,EDU,SCHOOL,,EDU,IGOUNOKID,UNICEF,,IGO,1,43,43,4,-1.783769063,https://en.shafaqna.com/318302/unicef-children-in-rohingya-refugee-camps-are-heading-back-to-school/
+1116671374,,,,,SDN,SUDAN,SDN,,1,190,190,19,-10.92436975,https://reliefweb.int/report/sudan/unhcr-sudan-overview-refugees-and-asylum-seekers-distribution-internal-movement-sudan-23-july-2023
+1116672651,BUS,BUSINESS,,BUS,,,,,1,51,51,5,2.450980392,https://www.odt.co.nz/business/workshop-help-city-refugees-wanting-start-food-business
+1116677929,LBN,LEBANON,LBN,,REF,REFUGEE,,REF,1,20,20,2,-6.855791962,https://yalibnan.com/2023/07/23/lebanons-identity-is-threatened-rai-warns-says-refugees-should-return-to-syria/
+1116682123,,,,,REF,REFUGEE,,REF,1,51,51,5,-2.296450939,https://www.irishtimes.com/ireland/social-affairs/2023/07/23/demonstrations-in-support-of-refugees-planned-by-dun-laoghaire-union-members-and-political-groups/
+1116690224,CAN,CANADA,CAN,,GOV,PRESIDENT,,GOV,1,10,10,1,-2.429149798,https://www.theglobeandmail.com/canada/article-refugee-claims-followed-montreal-aids-summit-marred-by-visa-woes/
+1116697157,DNKCOP,COPENHAGEN,DNK,COP,IRQGOV,IRAQI,IRQ,GOV,1,10,10,1,-7.407407407,https://tribune.net.ph/2023/07/24/koran-burning-triggers-attack-on-danish-refugee-office/
+1116701691,,,,,PSE,WEST BANK,PSE,,1,45,45,4,-2.222222222,https://www.thetimes.co.uk/article/the-moon-is-listening-the-new-opera-giving-refugees-a-voice-rmnhffg28
+1116708590,NGOHLHIRC,RED CRESCENT,,NGO,TCD,CHAD,TCD,,1,70,70,7,0.8869684427,http://aninews.in/news/world/middle-east/uae-aid-plane-arrives-in-chad-carrying-food-parcels-for-sudanese-refugees-local-community20230724060947/
+1116708649,SDN,SUDANESE,SDN,,TCD,CHAD,TCD,,1,70,70,7,2.325581395,https://theprint.in/world/uae-aid-plane-arrives-in-chad-carrying-food-parcels-for-sudanese-refugees-local-community/1682770/
+1116717482,AUSLEG,AUSTRALIA,AUS,LEG,,,,,1,111,111,11,-7.8125,https://www.greenleft.org.au/content/refugee-rights-rally-demands-labor-ends-cruel-temporary-visas
+1116733516,AFG,AFGHAN,AFG,,PAK,PAKISTAN,PAK,,1,841,84,8,-2.898550725,https://reliefweb.int/report/afghanistan/unhcr-rbap-afghanistan-situation-voluntary-repatriation-afghan-refugees-quarterly-update-april-june-2023
+1116744137,AUS,SYDNEY,AUS,,,,,,1,110,110,11,-6.903353057,http://honisoit.com/2023/07/10-years-on-labors-refugee-shame/
+1116752785,LBN,LEBANON,LBN,,REF,REFUGEE,,REF,1,46,46,4,-9.285714286,https://www.nationalheraldindia.com/world/european-parliaments-decision-to-support-syrian-refugees-stay-in-lebanon-violates-sovereignty-lebanese-pm
+1116756485,GOV,PRIME MINISTER,,GOV,REF,REFUGEE,,REF,1,51,51,5,-6.498194946,https://egyptianstreets.com/2023/07/24/migrants-and-refugees-represent-8-of-egypts-population-pm-madbouly/
+1116759020,LBN,LEBANON,LBN,,IGOEUREEC,EUROPEAN PARLIAMENT,EUR,IGO,1,110,110,11,-4.825070172,https://english.aawsat.com/arab-world/4449331-lebanon-wants-hold-talks-europe-solve-refugee-crisis
+1116763658,BGD,BANGLADESH,BGD,,MMR,MYANMAR,MMR,,1,42,42,4,-2.75862069,https://www.southeastasiapost.com/news/273908005/bangladesh-against-the-odds-children-begin-the-new-school-year-in-rohingya-refugee-camps
+1116764634,PSE,WEST BANK,PSE,,ISRREF,ISRAEL,ISR,REF,1,10,10,1,-2.314814815,https://reliefweb.int/report/occupied-palestinian-territory/unrwa-appeals-us23-million-address-palestine-refugee-needs-following-israeli-military-operation-jenin-refugee-camp
+1116769361,UKR,UKRAINE,UKR,,,,,,1,51,51,5,2.321083172,https://www.greenocktelegraph.co.uk/news/23671310.empty-homes-inverclyde-welcome-refugees-ukraine/
+1116770455,,,,,AFG,KABUL,AFG,,1,14,14,1,0.8665511265,https://www.courant.com/2023/07/24/iris-opens-new-hartford-office-serving-refugees-this-is-the-best-thing-we-do-as-a-country/
+1116786835,EGY,EGYPT,EGY,,REF,REFUGEE,,REF,1,40,40,4,-0.8802816901,https://www.dailynewsegypt.com/2023/07/24/egypt-unhcr-discuss-strengthening-cooperation-in-refugee-issues/
+1116787322,REF,REFUGEE,,REF,SAU,SAUDI ARABIA,SAU,,1,42,42,4,1.734104046,https://www.siasat.com/saudi-arabia-spends-over-usd-18-billion-on-visitor-refugees-in-12-years-2649295/
+1116787358,SDN,SUDANESE,SDN,,,,,,1,70,70,7,1.025641026,https://www.siasat.com/uae-sends-relief-aid-for-sudanese-refugees-in-chad-2649463/
+1116788890,AFR,AFRICA,AFR,,IGOUNOWFP,WORLD FOOD PROGRAM,,IGO,1,84,84,8,-11.26436782,https://www.africa-newsroom.com/press/funding-crunch-forces-world-food-programme-wfp-to-halve-food-rations-for-refugees-amidst-worsening-hunger-in-malawi
+1116789043,COP,POLICE,,COP,BGDREF,BANGLADESH,BGD,REF,1,173,173,17,-7.82122905,https://www.marketscreener.com/quote/index/TOPIX-INDEX-61714390/news/Indian-police-arrest-74-Rohingya-refugees-in-north-44400329/
+1116794151,COP,POLICE,,COP,MOS,MUSLIM,,,1,173,173,17,-12.5,https://dunyanews.tv/en/World/742085-Indian-police-arrest-74-Rohingya-refugees-in-north
+1116799445,IGOUNO,UNITED NATIONS,,IGO,REF,REFUGEE,,REF,1,60,60,6,-10.98909393,https://african.business/2023/07/apo-newsfeed/funding-crunch-forces-world-food-programme-wfp-to-halve-food-rations-for-refugees-amidst-worsening-hunger-in-malawi
+1116799693,MMR,MYANMAR,MMR,,BGD,BANGLADESH,BGD,,1,80,80,8,-10.09174312,https://www.usnews.com/news/world/articles/2023-07-24/indian-police-arrest-74-rohingya-refugees-in-north
+1116807944,IGOUNOWFP,WORLD FOOD PROGRAM,,IGO,REF,REFUGEE,,REF,1,162,162,16,-9.518853923,https://reliefweb.int/report/malawi/funding-crunch-forces-wfp-halve-food-rations-refugees-amidst-worsening-hunger-malawi
+1116829281,,,,,SDN,SUDAN,SDN,,1,190,190,19,-3.565941305,https://www.voanews.com/a/activists-want-egypt-to-ease-entry-for-refugees-from-sudan-conflict/7193823.html
+1116830012,IRL,IRISH,IRL,,NGOHLHIRC,RED CROSS,,NGO,1,10,10,1,3.663793103,https://www.thejournal.ie/good-bike-project-ukrainian-refugees-6127060-Jul2023/
+1116842769,,,,,EDU,SCHOOL,,EDU,1,43,43,4,0.6210281034,https://www.dailymaverick.co.za/article/2023-07-24-refugees-world-of-despair-in-a-universal-plight/
+1116843401,GOV,GOVERNMENT,,GOV,JUDELI,JUDGE,,JUD,1,43,43,4,-2.739726027,https://thekashmirwalla.com/centre-likely-to-reserve-3-seats-for-kashmiri-migrants-pajk-refugees-in-j-k-assembly/
+1116845270,GOV,GOVERNOR,,GOV,,,,,1,20,20,2,0.7716049383,https://thewire.in/government/reservation-of-jk-assembly-seats-for-kashmiri-migrants-refugees-sparks-nomination-debate
+1116847416,CAN,CANADA,CAN,,,,,,1,192,192,19,-1.917937785,https://www.mississauga.com/news/there-is-a-real-surge-peel-has-more-than-300-refugees-in-its-shelter-system/article_7b31cc2f-6bf6-5e3e-94e1-dd2aae40c7ae.html
+1116853463,,,,,SDN,SUDAN,SDN,,1,190,190,19,-3.519668737,https://www.africaleader.com/news/273909288/activists-want-egypt-to-ease-entry-for-refugees-from-sudan-conflict
+1116858523,AFG,AFGHAN,AFG,,REF,REFUGEE,,REF,1,60,60,6,-0.7575757576,https://www.laprensalatina.com/afghan-who-worked-with-us-military-now-assisting-refugees-from-his-homeland/
+1116859203,IGODEVIAD,IGAD,,IGO,SDN,SUDANESE,SDN,,1,871,87,8,-6.067556026,https://www.manilatimes.net/2023/07/24/world/un-news/sudan-child-deaths-rise-concern-intensifies-for-refugees-after-100-days-of-battle/1902276
+1116870890,IGODEVIAD,IGAD,,IGO,SDN,SUDANESE,SDN,,1,871,87,8,-6.281407035,https://www.ungeneva.org/en/news-media/news/2023/07/83272/sudan-child-deaths-rise-concern-intensifies-refugees-after-100-days
+1116876328,,,,,AFR,AFRICA,AFR,,1,43,43,4,-5.462184874,https://www.dailymaverick.co.za/article/2023-07-24-we-are-legal-ghosts-somali-familys-bitter-struggle-to-get-refugee-status-in-sa/
+1116895197,,,,,REF,REFUGEE,,REF,1,51,51,5,3.838898475,https://www.bridportnews.co.uk/news/national/23677222.love-actually-wicked-scripts-auctioned-support-refugees/
+1116898490,,,,,REF,REFUGEE,,REF,1,51,51,5,3.849332363,https://www.freepressseries.co.uk/news/national/23677222.love-actually-wicked-scripts-auctioned-support-refugees/
+1116902640,GBR,UNITED KINGDOM,GBR,,,,,,1,13,13,1,3.011137154,https://www.romfordrecorder.co.uk/news/national/23677222.love-actually-wicked-scripts-auctioned-support-refugees/
+1116906613,SYR,SYRIA,SYR,,USA,UNITED STATES,USA,,1,43,43,4,-10.45195182,https://www.breitbart.com:443/politics/2023/07/24/syrian-refugee-who-killed-fargo-officer-plotted-mass-shooting/
+1116919603,CVL,COMMUNITY,,CVL,,,,,1,1043,104,10,-4.703476483,https://reliefweb.int/report/bangladesh/insecurity-risk-and-resilience-contributions-and-challenges-refugee-led-initiatives-rohingya-refugee-camps-bangladesh
+1116922762,COP,POLICE,,COP,MOS,MUSLIM,,,1,173,173,17,-10.34787273,https://www.asiaone.com/asia/indian-police-arrest-74-rohingya-refugees-north
+1116924353,,,,,REF,REFUGEE,,REF,1,51,51,5,3.333333333,https://guernseypress.com/news/uk-news/2023/07/24/love-actually-and-wicked-scripts-to-be-auctioned-in-support-of-refugees/
+1116933676,REF,REFUGEE,,REF,,,,,1,233,23,2,-4.280821918,https://www.socialeurope.eu/refugees-how-could-we-possibly-get-here
+1116936451,IND,MANIPUR,IND,,REF,REFUGEE,,REF,1,35,35,3,1.024526545,https://www.anandabazar.com/india/those-who-are-staying-refugee-camp-are-not-willing-to-return-in-manipur/cid/1447400
+1116938246,GOV,GOVERNMENT,,GOV,JUDELI,JUDGE,,JUD,1,43,43,4,-3.529411765,https://thenorthlines.com/centre-likely-to-reserve-3-seats-for-kashmiri-migrants-pojk-refugees-in-jk-assembly/
+1116941182,,,,,REF,REFUGEE,,REF,1,42,42,4,-3.409090909,https://www.rand.org/blog/2023/07/the-eu-cant-treat-ukrainian-refugees-like-short-term.html
+1116941402,COP,POLICE,,COP,MOS,MUSLIM,,,1,173,173,17,-11.7020901,https://www.aljazeera.com/news/2023/7/25/india-police-arrest-seventy-four-rohingya-in-latest-crackdown-on-refugees
+1116943553,MMRMIL,MYANMAR,MMR,MIL,,,,,1,120,120,12,-14.38356164,https://www.thenews.com.pk/print/1093840-indian-police-arrest-74-rohingya-refugees-in-north
+1116944589,CHRCTH,THE POPE,,,GOV,PRIME MINISTER,,GOV,1,40,40,4,2.755905512,https://www.heraldmalaysia.com/news/pope-francis-praises-ugandas-welcome-of-refugees/72062/1
+1116957940,AUS,AUSTRALIA,AUS,,,,,,1,20,20,2,-6.829268293,https://www.batemansbaypost.com.au/story/8283067/refugee-action-committee-eurobodalla-urges-refugee-action-on-10-year-anniversary/
+1116960109,,,,,AUS,AUSTRALIA,AUS,,1,80,80,8,-5.203468979,https://www.outlookindia.com/national/refugee-to-illegal-migrant-journey-of-sri-lankan-tamils-to-india-magazine-304250
+1116969282,CVL,MIGRANT,,CVL,EGY,EGYPTIAN,EGY,,1,42,42,4,-6.914893617,https://en.shafaqna.com/318708/egyptian-pm-egypt-now-hosts-over-nine-million-migrants-40-of-sudan-refugees/
+1116969572,INDGOV,MANIPUR,IND,GOV,IND,ASSAM,IND,,1,233,23,2,-1.340482574,https://www.financialexpress.com/india-news/manipur-government-asks-assam-rifles-to-push-back-over-700-refugees-from-myanmar/3185842/
+1116978750,CAF,CENTRAL AFRICAN REPUBLIC,CAF,,SSD,SOUTH SUDAN,SSD,,1,80,80,8,-8.620689655,https://www.theeastafrican.co.ke/tea/rest-of-africa/egypt-slows-refugee-admittance-from-sudan-4314974
+1116988865,BTN,BHUTAN,BTN,,MED,MEDIA,,MED,1,114,114,11,-6.25,https://myrepublica.nagariknetwork.com/news/arzu-deuba-complains-of-media-trial-in-fake-bhutanese-refugees-scam/
+1116996953,IGOUNOKID,UNICEF,,IGO,,,,,1,10,10,1,-6.745009753,https://www.indiablooms.com/world-details/F/39711/sudan-child-deaths-rise-concern-intensifies-for-refugees-after-100-days-of-battle.html
+1117004474,CAN,TORONTO,CAN,,REF,ASYLUM SEEKER,,REF,1,70,70,7,-1.459854015,https://www.theglobeandmail.com/podcasts/the-decibel/article-how-government-infighting-led-to-a-refugee-crisis-in-toronto/
+1117011397,SDN,SUDAN,SDN,,SDNREF,SUDANESE,SDN,REF,1,20,20,2,-6.52173913,https://afropages.fr/?view=article&id=1039164:s-sudan-calls-for-coordinated-efforts-on-sudanese-refugees&catid=229
+1117013880,AFR,AFRICA,AFR,,REF,REFUGEE,,REF,1,190,190,19,-6.78807947,https://www.africa-newsroom.com/press/sudan-child-deaths-rise-concern-intensifies-for-refugees-after-100-days-of-battle
+1117021523,,,,,REF,REFUGEE,,REF,1,42,42,4,-0.5828791092,https://www.countypress.co.uk/news/23677539.isle-wight-homes-ukrainian-refugees/
+1117021778,CAN,TORONTO,CAN,,,,,,1,10,10,1,-2.592912705,https://www.cbc.ca/news/canada/kitchener-waterloo/waterloo-region-refugee-claimants-agengies-call-for-more-supports-1.6913513
+1117030609,GOV,MINIST,,GOV,UKR,UKRAINIAN,UKR,,1,75,75,7,-0.5952380952,https://www.lmfm.ie/news/lmfm-news/ukrainian-refugees-facing-losing-drogheda-home-given-an-extra-week-to-find-a-solution/
+1117038505,GBR,UNITED KINGDOM,GBR,,JOR,AMMAN,JOR,,1,36,36,3,3.597122302,http://www.jordantimes.com/news/local/uks-foreign-secretary-announce%E2%80%AF%C2%A330m-refugee-support-jordan
+1117048255,IRL,IRELAND,IRL,,,,,,1,60,60,6,11.38211382,https://carlow-nationalist.ie/2023/07/25/refugees-give-carlow-community-group-a-helping-hand/
+1117055454,,,,,CVL,VILLAGE,,CVL,1,190,190,19,-5.044510386,https://reliefweb.int/report/congo/influx-refugees-drc-republic-congo-situation-report-6-16-january-2023
+1117061570,CVL,MIGRANT,,CVL,,,,,1,110,110,11,-4.208416834,https://www.thehindu.com/news/national/other-states/over-700-refugees-yet-to-be-repatriated-to-myanmar-from-manipur/article67120715.ece
+1117083169,IGOUNOREFHCR,UNHCR,,IGO,KEN,KENYA,KEN,,1,42,42,4,-11.29032258,https://www.ntv.co.ug/ug/news/national/opm-unhcr-to-repatriate-refugees-who-had-gone-to-kenya--4315754
+1117087629,THA,THAILAND,THA,,USA,UNITED STATES,USA,,1,75,75,7,-2.380952381,https://www.sidneyherald.com/news/state/montana-clinics-chip-away-at-refugees-obstacles-to-dental-care/article_38e97eb6-2b0b-11ee-b0e4-bf07455b0eb2.html
+1117101948,IND,ASSAM,IND,,GOV,GOVERNMENT,,GOV,1,10,10,1,-5.080213904,https://timesofindia.indiatimes.com/india/manipur-govt-wants-to-send-back-718-myanmar-refugees/articleshow/102116885.cms
+1117106461,ISL,ICELAND,ISL,,UKRREF,UKRAINIAN,UKR,REF,1,73,73,7,-1.5625,https://theworld.org/media/2023-07-25/iceland-fast-tracks-ukrainian-refugees
+1117108168,REF,REFUGEE,,REF,,,,,1,90,90,9,-6.910569106,https://medicine.yale.edu/intmed/news-article/ukrainian-refugees-face-high-barriers-to-opioid-use-disorder-treatment-yale-study-finds/
+1117112849,SYR,SYRIA,SYR,,USAGOVELI,BARACK OBAMA,USA,GOV,1,43,43,4,-12.70718232,https://www.amren.com/news/2023/07/syrian-refugee-who-killed-23-year-old-fargo-officer-came-to-u-s-under-obama/
+1117115538,,,,,CAN,CANADA,CAN,,1,234,23,2,-1.27388535,https://www.canindia.com/canada-expands-human-rights-defenders-refugee-stream-doubles-number-of-immigration-spaces/
+1117117681,AFGINSTAL,TALIBAN,AFG,INS,AFG,AFGHAN,AFG,,1,20,20,2,-10.23622047,https://theprint.in/world/afghan-refugees-hold-protest-in-front-of-unhrc-office-in-pakistan/1686100/
+1117120074,REF,REFUGEE,,REF,TCD,CHAD,TCD,,1,42,42,4,-7.936507937,https://www.reuters.com/news/picture/in-pictures-refugees-fleeing-sudans-darf-idUSRTSLURX6
+1117123201,CVL,MIGRANT,,CVL,GBR,UNITED KINGDOM,GBR,,1,42,42,4,-3.903903904,https://www.clactonandfrintongazette.co.uk/news/national/23679868.test-refugee-visa-curb-channel-crossings-urges-charity/
+1117123202,CVL,MIGRANT,,CVL,GBR,UNITED KINGDOM,GBR,,1,42,42,4,-3.957703977,https://www.islingtongazette.co.uk/news/national/23679868.test-refugee-visa-curb-channel-crossings-urges-charity/
+1117126834,CVL,MIGRANT,,CVL,GBR,UNITED KINGDOM,GBR,,1,42,42,4,-4.526166902,https://www.thenationalnews.com/world/uk-news/2023/07/25/campaigners-urge-uk-government-to-test-refugee-visas/
+1117126835,CVL,MIGRANT,,CVL,GBR,UNITED KINGDOM,GBR,,1,42,42,4,-3.903903904,https://www.richmondandtwickenhamtimes.co.uk/news/national/23679868.test-refugee-visa-curb-channel-crossings-urges-charity/
+1117127633,LEG,REPRESENTATIVES,,LEG,,,,,1,111,111,11,-2.935194263,https://westernpeople.ie/2023/07/26/council-row-over-ballina-refugee-plan/
+1117130836,REF,REFUGEE,,REF,MED,GAZETTE,,MED,1,20,20,2,-3.898050975,https://www.gazetteandherald.co.uk/news/national/23679868.test-refugee-visa-curb-channel-crossings-urges-charity/
+1117136138,CVL,MIGRANT,,CVL,GBR,UNITED KINGDOM,GBR,,1,42,42,4,-3.903903904,https://www.maldonandburnhamstandard.co.uk/news/national/23679868.test-refugee-visa-curb-channel-crossings-urges-charity/
+1117138456,CVL,MIGRANT,,CVL,GBR,UNITED KINGDOM,GBR,,1,42,42,4,-3.898050975,https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/23679868.test-refugee-visa-curb-channel-crossings-urges-charity/
+1117152738,IND,ASSAM,IND,,GOV,GOVERNMENT,,GOV,1,10,10,1,-5.039787798,https://timesofindia.indiatimes.com/city/guwahati/manipur-govt-wants-to-send-back-718-myanmar-refugees/articleshow/102116885.cms
+1117166512,,,,,GOV,GOVERNANCE,,GOV,1,43,43,4,-8.085106383,https://tribune.com.pk/story/2427821/securitisation-of-afghan-refugees
+1117182278,BTN,BHUTAN,BTN,,,,,,1,110,110,11,-7.641196013,https://www.bhutannewsservice.org/bhutans-refugees-between-hope-and-despair/
+1117182286,BTN,BHUTANESE,BTN,,USA,UNITED STATES,USA,,1,40,40,4,1.388888889,https://www.bhutannewsservice.org/why-the-bhutanese-refugee-oral-history-project/
+1117183082,USA,UNITED STATES,USA,,REF,REFUGEE,,REF,1,17,17,1,2.43902439,https://www.bhutannewsservice.org/kamal-dhimal-awarded-refugee-congress-excellence-award/
+1117186481,EGY,EGYPT,EGY,,,,,,1,80,80,8,-0.6329113924,https://iafrica.com/advocacy-groups-call-on-sudans-neighbour-egypt-to-ease-entry-requirements-for-refugees/
+1117202661,GBR,UNITED KINGDOM,GBR,,JOR,AMMAN,JOR,,1,36,36,3,3.900425274,https://www.zawya.com/en/economy/levant/uks-foreign-secretary-to-announce-aid-for-refugee-support-in-jordan-cuiq0zug
+1117210283,,,,,REF,REFUGEE,,REF,1,42,42,4,-7.792207792,https://reliefweb.int/report/sudan/regional-bureau-east-horn-africa-and-great-lakes-refugees-asylum-seekers-refugee-returnees-and-idps-30-june-2023
+1117220821,CAF,CENTRAL AFRICAN,CAF,,SDN,SUDANESE,SDN,,1,110,110,11,-5.454545455,https://reliefweb.int/report/central-african-republic/car-msf-vaccinates-thousands-children-upon-arrival-refugees-sudan
+1117223361,MIL,ARMY,,MIL,REF,REFUGEE,,REF,1,112,112,11,-5.940594059,https://www.thedailystar.net/news/bangladesh/crime-justice/news/rohingya-man-killed-arsa-members-kutupalong-refugee-camp-3379076
+1117224550,RWAREF,RWANDA,RWA,REF,NGOHRIHRW,HUMAN RIGHTS WATCH,,NGO,1,130,130,13,-7.94044665,https://www.attitude.co.uk/news/world/refugee-joel-mordi-on-illegal-migration-bill-441299/
+1117228417,CAN,CANADA,CAN,,CVL,COMMUNITY,,CVL,1,43,43,4,-4.680187207,https://globalnews.ca/news/9856960/hamilton-funding-house-refugees/
+1117240381,ISR,ISRAEL,ISR,,REF,REFUGEE,,REF,1,190,190,19,-10.85872049,https://www.ctvnews.ca/world/palestinian-man-killed-by-israeli-troops-during-arrest-raid-in-west-bank-refugee-camp-1.6494590
+1117242567,ISR,ISRAEL,ISR,,PSEREF,WEST BANK,PSE,REF,1,173,173,17,-13.45565749,https://www.mymotherlode.com/news/middle-east/3188271/palestinian-man-killed-by-israeli-troops-during-arrest-raid-in-west-bank-refugee-camp.html
+1117244388,,,,,REF,REFUGEE,,REF,1,51,51,5,-6.077348066,https://www.dailymaverick.co.za/opinionista/2023-07-26-persecution-of-homosexual-transgender-people-in-cameroon-generates-wave-of-refugees-including-to-sa/
+1117251950,CVL,MIGRANT,,CVL,USA,PORTLAND,USA,,1,20,20,2,-4.557640751,https://www.aol.co.uk/test-refugee-visa-curb-channel-230100946.html
+1117257171,LTU,LITHUANIA,LTU,,UKR,UKRAINIAN,UKR,,1,71,71,7,-6.25,https://www.delfi.lt/en/en/politics/lithuania-will-continue-funding-studies-of-ukrainian-refugees-94034309
+1117259276,REF,REFUGEE,,REF,,,,,1,90,90,9,-4.597701149,https://medicalxpress.com/news/2023-07-ukrainian-refugees-high-barriers-opioid.html
+1117274418,MEX,MEXICAN,MEX,,REF,REFUGEE,,REF,1,40,40,4,-4.131956666,https://www.streetinsider.com/Reuters/Mexico+working+with+U.S.+on+refugee+plan+for+migrants+in+southern+Mexico/21949838.html
+1117277065,REF,REFUGEE,,REF,,,,,1,51,51,5,5.555555556,https://www.leighjournal.co.uk/news/23677613.exhibition-schoolkids-refugees-celebrates-diversity-turnpike/
+1117283013,CAN,CANADA,CAN,,CANGOV,CANADA,CAN,GOV,1,40,40,4,-5.246422893,https://www.cbc.ca/news/canada/hamilton/andrea-horwath-federal-funding-refugees-homeless-1.6918205
+1117294962,,,,,AFG,KABUL,AFG,,1,63,63,6,-6.794682422,https://www.hrw.org/news/2023/07/26/debt-owed-afghan-refugees-green-cards
+1117296930,CAN,CANADA,CAN,,LEG,CONGRESS,,LEG,1,43,43,4,-2.00784398,https://globalnews.ca/news/9858226/quebec-ukrainian-refugee-missing-police-river-search/
+1117299535,ARE,EMIRATI,ARE,,SDN,SUDANESE,SDN,,1,73,73,7,0,https://www.tag911.ae/news/local-news/uae-distributes-food-parcels-to-sudanese-refugees-in-chad/
+1117306620,SYR,SYRIAN,SYR,,USA,UNITED STATES,USA,,1,36,36,3,0.1769911504,https://www.sandiegouniontribune.com/entertainment/theater/story/2023-07-26/little-amal-a-12-foot-puppet-of-a-syrian-refugee-girl-to-walk-in-multiple-san-diego-locations
+1117320797,AFG,AFGHAN,AFG,,AUS,AUSTRALIAN,AUS,,1,20,20,2,-1.310043668,https://www.examiner.com.au/story/8285279/afghan-refugees-brave-epic-journey-to-boost-visa-scheme/
+1117331938,BGR,BULGARIA,BGR,,MED,CORRESPONDENT,,MED,1,10,10,1,-10.34482759,https://www.bignewsnetwork.com/news/273911882/bulgaria-murder-in-harmanli-refugee-camp
+1117331996,CAN,CANADA,CAN,,UKR,UKRAINIAN,UKR,,1,75,75,7,4.504504505,https://nowtoronto.com/culture/the-hillside-festival-in-guelph-is-offering-free-tickets-to-ukrainian-refugees/
+1117332092,CVL,COMMUNITY,,CVL,CAN,TORONTO,CAN,,1,51,51,5,-1.967213115,https://nowtoronto.com/news/toronto-creates-over-200-shelter-spaces-for-refugees-and-is-thanking-community-groups-for-their-assistance/
+1117332155,FJI,FIJI,FJI,,AUS,AUSTRALIA,AUS,,1,20,20,2,-3.953147877,https://www.fijitimes.com/refugee-advocate-calls-for-inquiry-into-australias-offshore-detention-regime/
+1117347729,AFG,AFGHAN,AFG,,AUS,AUSTRALIAN,AUS,,1,20,20,2,-1.310043668,https://www.margaretrivermail.com.au/story/8285279/afghan-refugees-brave-epic-journey-to-boost-visa-scheme/?cs=30776
+1117368851,TTO,TRINIDAD AND TOBAGO,TTO,,GOV,GOVERNMENT,,GOV,1,12,12,1,-7.557354926,https://www.caribbeanherald.com/news/273911835/court-ruling-on-deportations-in-trinidad-and-tobago-will-gravely-impact-refugees-and-migrants
+1117421191,AFG,KABUL,AFG,,CAN,CANADA,CAN,,1,42,42,4,-4.545454545,https://pajhwok.com/2023/07/27/nearly-350-more-afghan-refugees-arrive-in-canada/
+1117421837,LTU,LITHUANIA,LTU,,UKR,UKRAINIAN,UKR,,1,71,71,7,-6.25,https://www.delfi.lt/en/politics/lithuania-will-continue-funding-studies-of-ukrainian-refugees-94034309
+1117435808,,,,,TUR,TURKIYE,TUR,,1,43,43,4,-4.054054054,https://www.middleeastmonitor.com/20230727-syria-palestinian-refugees-flee-oppression-of-assad-regime/
+1117436454,IRL,GALWAY,IRL,,UKR,UKRAINIAN,UKR,,1,10,10,1,-0.900974026,https://galwaybayfm.ie/galway-bay-fm-news-desk/site-in-ballinasloe-being-assessed-for-modular-homes-for-ukrainian-refugees/
+1117458590,,,,,AFG,AFGHANISTAN,AFG,,1,42,42,4,0,https://news.yahoo.com/story-worth-telling-refugee-welcome-090613476.html
+1117458649,,,,,IGOUNOREFHCR,UNHCR,,IGO,1,42,42,4,-0.987654321,https://reliefweb.int/report/bangladesh/unhcr-welcomes-eur-335m-european-union-rohingya-refugees-and-host-communities-coxs-bazar-and-bhasan-char-enbn
+1117458862,CHE,GENEVA,CHE,,IGOUNOREF,THE UN,,IGO,1,12,12,1,-6.763916443,https://www.iom.int/news/iom-and-unhcr-appeal-urgent-solutions-migrants-and-refugees-stranded-tunisia-and-libya-borders
+1117467301,CHE,GENEVA,CHE,,IGOUNOREF,THE UN,,IGO,1,12,12,1,-6.63507109,https://reliefweb.int/report/tunisia/iom-and-unhcr-appeal-urgent-solutions-migrants-and-refugees-stranded-tunisia-and-libya-borders
+1117481685,,,,,EDU,SCHOOL,,EDU,1,25,25,2,0,https://english.radio.cz/four-fifths-ukrainian-refugee-parents-have-school-places-children-8789846
+1117488124,GBR,BRITISH,GBR,,UKR,UKRAINE,UKR,,1,10,10,1,0,https://www.desimartini.com/events/news/we-need-to-donate-we-need-to-pressure-benedict-cumberbatchs-clarion-call-for-support-for-ukrainian-refugees/60669328f7584/
+1117493612,sco,SCOTTISH,,,GBR,SCOTLAND,GBR,,1,51,51,5,-0.6849315068,https://www.scotsman.com/news/world/one-in-ten-ukrainian-refugees-in-scotland-stuck-in-temporary-accommodation-4234549
+1117495947,GBR,UNITED KINGDOM,GBR,,,,,,1,100,100,10,-1.902748414,https://www.theargus.co.uk/news/23683569.home-offices-housing-refugee-children-hotels-ruled-unlawful/
+1117498200,,,,,REF,DISPLACED PEOPLE,,REF,1,60,60,6,3.482587065,https://www.opportunitiesforafricans.com/unhcr-youth-with-refugees-art-contest-2023-for-young-people/
+1117499090,IGOUNOREFHCR,UNHCR,,IGO,REF,REFUGEE,,REF,1,40,40,4,-6.162234019,https://www.contactmusic.com/theo-james/news/theo-james-work-with-refugees-inspired-by-his-grandfather-s-plight_6354925
+1117500242,MNCUSAMED,VIRGIN MEDIA,USA,MNC,,,,,1,55,55,5,-3.930131004,https://www.sundayworld.com/crime/irish-crime/fine-gael-td-says-property-vandalised-in-ballybrack-was-not-to-be-used-for-refugees/a337027396.html
+1117507637,EDU,SCHOOL,,EDU,REF,REFUGEE,,REF,1,43,43,4,-2.702702703,https://www.thelocal.de/20230727/more-than-half-of-all-refugees-to-germany-in-2015-are-now-employed
+1117510265,NOR,NORWAY,NOR,,UGA,UGANDA,UGA,,1,51,51,5,-2.139037433,https://www.kfm.co.ug/news/norway-gives-uganda-2-8m-to-support-refugee-self-reliance.html
+1117512913,,,,,REF,REFUGEE,,REF,1,36,36,3,-2.894736842,https://www.thenationalnews.com/mena/jordan/2023/07/27/britain-donates-30-million-to-help-syrian-refugees-in-jordan/
+1117528180,AFG,AFGHAN,AFG,,IRN,IRAN,IRN,,1,841,84,8,-8.510638298,https://pajhwok.com/2023/07/27/nearly-3000-afghan-refugees-return-from-iran-yesterday/
+1117529383,JOR,JORDAN,JOR,,REF,REFUGEE,,REF,1,20,20,2,-1.005025126,https://www.mesabitribune.com/around_the_web/entertainment/theo-james-work-with-refugees-inspired-by-his-grandfathers-plight/article_bd30044c-abac-50cf-85f8-a4a9edc75fc0.html
+1117551466,IGOUNOREF,THE UN,,IGO,REF,REFUGEE,,REF,1,36,36,3,-7.890429906,https://www.irishnews.com/magazine/movies/2023/07/27/news/theo_james_calls_on_support_for_refugees_as_scars_of_war_not_always_visible_-3476446/
+1117551896,REFBUS,REFUGEE,,REF,,,,,1,30,30,3,7.083868632,https://www.finanznachrichten.de/nachrichten-2023-07/59690885-skys-the-limit-rise-up-unleashing-potential-accenture-s-unprecedented-partnership-drives-positive-change-for-refugee-entrepreneurs-200.htm
+1117553525,EUR,EUROPEAN,EUR,,,,,,1,71,71,7,-2.317880795,https://www.stiripesurse.ro/eur-400-million-european-funds-to-be-used-to-reimburse-expenses-incurred-by-ukrainian-refugees_3008643.html
+1117554480,USA,UNITED STATES,USA,,,,,,1,43,43,4,1.524390244,https://www.normantranscript.com/news/inmates-at-jess-dunn-correctional-center-assemble-thousands-of-meals-for-refugees-and-children-in/article_6c4ee0c6-2c9a-11ee-afc3-c3715656d559.html
+1117562748,POL,POLAND,POL,,REF,REFUGEE,,REF,1,43,43,4,0.7109004739,https://www.digitaljournal.com/world/new-digital-mental-health-tool-supports-ukrainian-refugees/article
+1117563818,AFG,AFGHAN,AFG,,PAK,PAKISTAN,PAK,,1,172,172,17,-9.349560293,https://www.voanews.com/a/afghan-refugees-in-pakistan-worry-as-their-refugee-cards-expire/7199312.html
+1117563886,BUS,BANK,,BUS,EGY,NILE,EGY,,1,43,43,4,-5.924412666,https://www.thenewhumanitarian.org/opinion/2023/07/27/South-Sudan-Sudan-refugees-donors
+1117564707,SYR,SYRIAN,SYR,,TUR,TURKEY,TUR,,1,42,42,4,-7.992565056,https://syrianobserver.com/news/84243/syrian-organizations-express-concern-about-forced-return-of-refugees-in-turkey.html
+1117569224,,,,,AUS,AUSTRALIAN,AUS,,1,60,60,6,-5.627705628,https://www.bordermail.com.au/story/8285781/accused-stuck-in-rwandan-refugee-camp-limbo-might-have-case-finalised-in-absence/
+1117574266,,,,,REF,REFUGEE,,REF,1,42,42,4,-7.407407407,http://www.jordantimes.com/news/local/refugee-debt-25-last-year-wfp-reveals
+1117576018,BUS,BUSINESS,,BUS,,,,,1,20,20,2,1.485373225,https://www.saltlakecitysun.com/news/273913090/rise-up-unleashing-potential-accentures-unprecedented-partnership-drives-positive-change-for-refugee-entrepreneurs
+1117590269,REF,REFUGEE,,REF,TCD,CHAD,TCD,,1,80,80,8,-7.936507937,https://jp.reuters.com/jp.reuters.com/news/picture/refugees-flee-sudans-darfur-to-chad-idJPRTSLURX6
+1117611322,BUD,BUDDHIST,,,MMR,RAKHINE STATE,MMR,,1,190,190,19,-7.738095238,https://www.mizzima.com/article/lowest-low-rohingya-refugee-women-india
+1117630445,IGOUNOREFHCR,UNHCR,,IGO,REF,REFUGEE,,REF,1,40,40,4,-5.247813411,https://www.koimoi.com/hollywood-news/the-white-lotus-fame-theo-james-comes-forward-to-help-refugees-as-he-visits-jordan-scars-of-war-are-not-always-visible/
+1117636326,EDU,SCHOOL,,EDU,SWE,SWEDEN,SWE,,1,20,20,2,1.152737752,https://www.thelocal.se/20230728/ukrainian-refugees-allowed-to-study-swedish-to-upper-secondary-level
+1117648497,CVL,MIGRANT,,CVL,,,,,1,12,12,1,-6.683168317,https://www.devdiscourse.com/article/headlines/2539665-unhcr-and-iom-concerned-about-safety-of-migrants-refugees-in-tunisia
+1117648732,IGOUNO,THE UN,,IGO,GNQ,EQUATORIAL GUINEA,GNQ,,1,70,70,7,-5.882352941,https://www.kfm.co.ug/news/govt-to-resettle-over-300-refugees.html
+1117654281,REF,REFUGEE,,REF,,,,,1,20,20,2,-14.51612903,https://guernseypress.com/news/uk-news/2023/07/28/refugee-charity-hits-out-at-cruel-proposal-to-house-asylum-seekers-in-tents/
+1117654282,REF,REFUGEE,,REF,,,,,1,20,20,2,-5.095480009,https://www.eastlondonadvertiser.co.uk/news/national/23685542.refugee-charity-hits-cruel-proposal-house-asylum-seekers-tents/
+1117656472,MED,PRESS ASSOCIATION,,MED,REF,ASYLUM SEEKER,,REF,1,20,20,2,-5.912162162,https://www.aol.co.uk/refugee-charity-hits-cruel-proposal-085852165.html
+1117656601,REF,REFUGEE,,REF,MED,GAZETTE,,MED,1,20,20,2,-5.175600739,https://www.gazetteandherald.co.uk/news/national/23685542.refugee-charity-hits-cruel-proposal-house-asylum-seekers-tents/
+1117661159,REF,REFUGEE,,REF,,,,,1,20,20,2,-4.909983633,https://www.harwichandmanningtreestandard.co.uk/news/national/23685542.refugee-charity-hits-cruel-proposal-house-asylum-seekers-tents/
+1117663481,REF,REFUGEE,,REF,GBR,LONDON,GBR,,1,20,20,2,-4.885993485,https://www.guardian-series.co.uk/news/national/23685542.refugee-charity-hits-cruel-proposal-house-asylum-seekers-tents/
+1117669715,REF,REFUGEE,,REF,,,,,1,20,20,2,-4.901960784,https://www.burnhamandhighbridgeweeklynews.co.uk/news/national/23685542.refugee-charity-hits-cruel-proposal-house-asylum-seekers-tents/
+1117673106,GBR,BRITISH,GBR,,GBRELI,BRITISH,GBR,ELI,1,130,130,13,-6.215469613,https://www.thenationalnews.com/mena/lebanon/2023/07/28/david-miliband-warns-of-dangers-of-normalising-plight-of-syrian-refugees/
+1117686523,UKR,UKRAINE,UKR,,REF,REFUGEE,,REF,1,33,33,3,-0.2202643172,https://reliefweb.int/report/czechia/unicef-and-czech-red-cross-launch-financial-assistance-programme-refugee-children-disabilities-ukraine-czech-republic
+1117701409,AFR,AFRICA,AFR,,REF,REFUGEE,,REF,1,84,84,8,-0.4545454545,https://www.africa-newsroom.com/press/creating-jobs-for-refugees-together-with-visa-foundation
+1117706845,CHE,SWITZERLAND,CHE,,GHA,GHANA,GHA,,1,42,42,4,-12.21122112,https://www.barrons.com/news/un-urges-countries-not-to-expel-burkina-faso-refugees-a7f25a0e
+1117709857,,,,,AFG,AFGHAN,AFG,,1,75,75,7,-3.95256917,https://www.gponline.com/specialist-mental-health-support-resettled-afghan-veterans-refugees/article/1831684
+1117716060,MEX,MEXICO,MEX,,USA,UNITED STATES,USA,,1,40,40,4,-8.483364106,https://www.streetinsider.com/Reuters/US+to+accept+certain+non-Mexican+migrants+in+Mexico+as+refugees/21963396.html
+1117718591,USA,UNITED STATES,USA,,MEX,MEXICO,MEX,,1,40,40,4,-10.41666667,https://www.marketscreener.com/news/latest/US-to-accept-certain-non-Mexican-migrants-in-Mexico-as-refugees--44455539/
+1117721343,USA,UNITED STATES,USA,,REF,REFUGEE,,REF,1,80,80,8,-8.88086981,https://www.reuters.com/world/us/us-accept-certain-non-mexican-migrants-mexico-refugees-2023-07-28/
+1117730700,,,,,RWA,RWANDA,RWA,,1,42,42,4,0.304414003,http://www.rnanews.com/joint-agriculture-project-fosters-self-reliance-and-social-cohesion-among-refugee-and-host-communities-in-kigeme/
+1117742092,USA,UNITED STATES,USA,,,,,,1,43,43,4,1.547987616,https://www.theadanews.com/news/inmates-assemble-thousands-of-meals-for-refugees-and-children-in-need/article_dfbb1632-b078-50e8-96b9-9e67f57a7881.html
+1117747371,,,,,GRC,GREECE,GRC,,1,42,42,4,-3.361344538,https://www.devdiscourse.com/article/law-order/2540705-during-visit-to-greece-un-official-calls-for-enhanced-refugee-protection
+1117754080,,,,,REF,REFUGEE,,REF,1,42,42,4,3.687284423,https://www.miragenews.com/volunteering-empowers-refugee-jordanian-women-1056316/
+1117754641,IGOUNO,UNITED NATIONS,,IGO,KEN,KENYA,KEN,,1,51,51,5,0.6386010363,https://www.zawya.com/en/press-release/africa-press-releases/united-nations-high-commissioner-for-refugees-unhcr-applauds-kenyas-efforts-to-resolve-stateless-situation-of-feyvitff
+1117756169,JOR,AMMAN,JOR,,,,,,1,141,141,14,-3.245591618,https://news.yale.edu/2023/07/28/volunteering-empowers-refugee-and-jordanian-women-poor-urban-communities
+1117759737,AFR,AFRICA,AFR,,BFA,BURKINA FASO,BFA,,1,20,20,2,-11.08870968,https://www.africa-newsroom.com/press/united-nations-high-commissioner-for-refugees-unhcr-urges-solidarity-with-burkina-fasos-victims-of-extremist-violence
+1117759740,AFR,AFRICA,AFR,,IGOUNO,UNITED NATIONS,,IGO,1,84,84,8,0.6696428571,https://www.africa-newsroom.com/press/united-nations-high-commissioner-for-refugees-unhcr-applauds-kenyas-efforts-to-resolve-stateless-situation-of-pemba-community
+1117760425,REF,REFUGEE,,REF,,,,,1,51,51,5,-2.702702703,https://www.thejournal.ie/refugee-support-protest-dun-laoghaire-6131697-Jul2023/
+1117766251,CVL,MIGRANT,,CVL,MEX,MEXICO,MEX,,1,40,40,4,-4.6692607,https://www.cbsnews.com/news/biden-administration-to-give-some-migrants-in-mexico-refugee-status-in-u-s/
+1117770469,KHM,CAMBODIA,KHM,,USA,UNITED STATES,USA,,1,80,80,8,2.127659574,https://www.pressherald.com/2023/07/28/health-care-workers-at-refugee-camp-inspired-career-of-maines-new-cdc-director/
+1117771727,CAN,CANADA,CAN,,REF,REFUGEE,,REF,1,55,55,5,-2.266666667,https://toronto.ctvnews.ca/mayor-olivia-chow-apologizes-to-refugees-asylum-seekers-who-slept-on-toronto-streets-1.6498657
+1117773355,CAN,TORONTO,CAN,,CANGOV,CANADA,CAN,GOV,1,46,46,4,-2.31884058,https://www.theglobeandmail.com/canada/article-toronto-mayor-olivia-chow-tours-church-housing-refugees-calls-on-feds-to-visit/
+1117773362,CAN,TORONTO,CAN,,GOV,CABINET,,GOV,1,20,20,2,-1.753024627,https://www.chch.com/toronto-mayor-olivia-chow-tours-church-housing-refugees-calls-on-feds-to-visit/
+1117773581,GOV,MAYOR,,GOV,COP,POLICE,,COP,1,10,10,1,-5.555555556,https://rdnewsnow.com/2023/07/28/mayor-says-body-found-in-quebec-river-where-ukrainian-refugee-went-missing/
+1117773879,REF,REFUGEE,,REF,CAN,TORONTO,CAN,,1,20,20,2,-2.0335441,https://globalnews.ca/news/9863722/chow-tours-church-housing-refugees/
+1117774873,CAN,TORONTO,CAN,,GOV,CABINET,,GOV,1,20,20,2,-2.073732719,https://www.winnipegfreepress.com/canada/2023/07/28/toronto-mayor-olivia-chow-tours-church-housing-refugees-calls-on-feds-to-visit
+1117775137,GOV,MAYOR,,GOV,COP,POLICE,,COP,1,10,10,1,-2.879457707,https://www.winnipegfreepress.com/canada/2023/07/28/mayor-says-body-found-in-quebec-river-where-ukrainian-refugee-went-missing
+1117775138,GOV,MAYOR,,GOV,COP,POLICE,,COP,1,10,10,1,-2.870592665,https://www.theglobeandmail.com/canada/article-mayor-says-body-found-in-quebec-river-where-ukrainian-refugee-went/
+1117775189,GOVMIL,NATIONAL SECURITY ADVISER,,GOV,MEXGOV,MEXICAN,MEX,GOV,1,36,36,3,-4.052287582,https://www.foxnews.com/politics/white-house-agrees-accept-some-cuban-nicaraguan-haitian-venezuelan-nationals-mexico-refugees
+1117776346,,,,,AUS,AUSTRALIA,AUS,,1,42,42,4,-0.4446640316,https://www.portnews.com.au/story/8288166/refugee-drummer-beats-a-path-to-healing-for-students/?cs=9676
+1117783381,UKR,UKRAINIAN,UKR,,COP,POLICE,,COP,1,112,112,11,-3.076923077,https://www.brandonsun.com/national/2023/07/28/mayor-says-body-found-in-quebec-river-where-ukrainian-refugee-went-missing
+1117785745,,,,,AUS,AUSTRALIA,AUS,,1,42,42,4,-0.4545454545,https://www.therural.com.au/story/8288166/refugee-drummer-beats-a-path-to-healing-for-students/?cs=9676
+1117786848,GOV,MAYOR,,GOV,COP,POLICE,,COP,1,10,10,1,-2.739726027,https://www.bowenislandundercurrent.com/national-news/mayor-says-body-found-in-quebec-river-where-ukrainian-refugee-went-missing-7340617
+1117789999,CVL,MIGRANT,,CVL,MEX,MEXICO,MEX,,1,40,40,4,-4.6692607,https://www.cbsnews.com/colorado/news/biden-administration-to-give-some-migrants-in-mexico-refugee-status-in-u-s/
+1117794763,CAN,CANADA,CAN,,,,,,1,10,10,1,1.016180676,https://montrealgazette.com/news/quebec/body-found-in-etchemin-river-where-ukrainian-refugee-went-missing
+1117795952,USA,ROCHESTER,USA,,KHMREF,CAMBODIA,KHM,REF,1,10,10,1,2.161516307,https://www.centralmaine.com/2023/07/28/health-care-workers-at-refugee-camp-inspired-career-of-maines-new-cdc-director/
+1117796761,IRQ,IRAQI,IRQ,,IRQGOV,IRAQ,IRQ,GOV,1,141,141,14,-4.776170777,https://www.thenationalnews.com/world/europe/2023/07/28/sweden-examining-residency-of-quran-burning-refugee/
+1117798749,CANGOV,CANADA,CAN,GOV,REF,REFUGEE,,REF,1,55,55,5,-2.251655629,https://www.cp24.com/news/not-acceptable-mayor-chow-apologizes-to-refugees-and-asylum-seekers-who-slept-on-downtown-streets-1.6498634
+1117801580,CANGOV,CANADA,CAN,GOV,REF,ASYLUM SEEKER,,REF,1,10,10,1,-1.798063624,https://www.theglobeandmail.com/canada/article-olivia-chow-asks-toronto-residents-to-open-homes-to-refugees/
+1117806469,JUD,SUPREME COURT,,JUD,,,,,1,120,120,12,-3.501544799,https://bc.ctvnews.ca/iranian-refugee-who-bought-6-6m-home-in-west-vancouver-fails-to-convince-judge-foreign-buyers-tax-is-unconstitutional-1.6499116
+1117806786,EDU,UNIVERSITY,,EDU,IND,DELHI,IND,,1,42,42,4,-0.9743135518,https://www.outlookindia.com/culture-society/a-refugee-in-a-foreign-land-a-short-story-weekender_story-306350
+1117816134,IGOUNO,UNITED NATIONS,,IGO,BFA,BURKINA FASO,BFA,,1,20,20,2,-11.36363636,https://venturesafrica.com/apostories/united-nations-high-commissioner-for-refugees-unhcr-urges-solidarity-with-burkina-fasos-victims-of-extremist-violence/
+1117816136,IGOUNO,UNITED NATIONS,,IGO,KEN,KENYA,KEN,,1,51,51,5,0.7772020725,https://venturesafrica.com/apostories/united-nations-high-commissioner-for-refugees-unhcr-applauds-kenyas-efforts-to-resolve-stateless-situation-of-pemba-community/
+1117819556,,,,,AUS,AUSTRALIA,AUS,,1,42,42,4,-0.2066115702,https://www.sbs.com.au/news/article/a-drummers-journey-from-busking-in-baghdad-to-helping-refugee-kids-find-their-rhythm/mt5k4l1ja
+1117824788,CVL,MIGRANT,,CVL,USA,UNITED STATES,USA,,1,80,80,8,-3.104432534,https://www.nbcbayarea.com/news/national-international/biden-admin-unveils-plan-to-give-some-migrants-in-mexico-refugee-status-in-the-us/3283571/
+1117824790,CVL,MIGRANT,,CVL,USA,UNITED STATES,USA,,1,80,80,8,-3.333333333,https://www.nbcnewyork.com/news/national-international/biden-admin-unveils-plan-to-give-some-migrants-in-mexico-refugee-status-in-the-us/4546644/
+1117826498,MEXREF,MEXICO,MEX,REF,USA,WASHINGTON,USA,,1,75,75,7,-2.915451895,https://www.nbcwashington.com/news/national-international/biden-admin-unveils-plan-to-give-some-migrants-in-mexico-refugee-status-in-the-us/3394116/
+1117828909,CVL,MIGRANT,,CVL,USA,UNITED STATES,USA,,1,80,80,8,-3.25443787,https://www.nbcchicago.com/news/national-international/biden-admin-unveils-plan-to-give-some-migrants-in-mexico-refugee-status-in-the-us/3196792/
+1117835653,CVL,MIGRANT,,CVL,USA,UNITED STATES,USA,,1,80,80,8,-3.514376997,https://www.nbcdfw.com/news/national-international/biden-admin-unveils-plan-to-give-some-migrants-in-mexico-refugee-status-in-the-us/3305924/
+1117837118,BGD,BANGLADESHI,BGD,,IND,MIZORAM,IND,,1,36,36,3,-5.063291139,https://timesofindia.indiatimes.com/india/northeast-diary-disguised-as-refugees-kuki-chin-militants-from-bangladesh-entered-mizoram/articleshow/102228283.cms
+1117858621,,,,,CYP,CYPRUS,CYP,,1,42,42,4,-1.449275362,https://cyprus-mail.com/2023/07/29/tracing-the-memories-of-refugees/
+1117874093,BUS,TOURISM INDUSTRY,,BUS,GOV,MINIST,,GOV,1,10,10,1,-0.2320185615,https://clareherald.com/news/government/accommodation-plan-for-refugees-and-asylum-seekers-lacks-balance/
+1117878166,,,,,EDU,SCHOOL,,EDU,1,36,36,3,6.629834254,https://www.hampshirechronicle.co.uk/news/23678152.volunteers-needed-help-ukrainian-refugees-winchester/
+1117884548,COP,POLICE,,COP,COD,CONGOLESE,COD,,1,10,10,1,-8.19112628,https://www.lusakatimes.com/2023/07/29/70-year-old-refugee-murdered/
+1117895422,SWE,SWEDEN,SWE,,IRQ,IRAQI,IRQ,,1,141,141,14,-3.714285714,https://updatednews.ca/sweden-to-review-residency-permit-of-iraqi-refugee-who-burnt-quran/
+1117911278,CVL,COMMUNITY,,CVL,UKR,UKRAINIAN,UKR,,1,43,43,4,3.177004539,https://www.saltwire.com/atlantic-canada/news/ukrainian-refugees-strive-to-establish-roots-in-newfoundland-amid-housing-and-employment-struggles-100878260/
+1117922793,,,,,LBN,LEBANON,LBN,,1,10,10,1,-11.1747851,https://www.middleeasteye.net/news/one-dead-lebanon-palestinian-refugee-camp-clashes-fatah-official
+1117931207,,,,,LBN,LEBANON,LBN,,1,10,10,1,-10.13067449,https://www.barrons.com/news/one-dead-in-lebanon-palestinian-refugee-camp-clashes-fatah-official-c228e9bc
+1117931227,,,,,PSE,GAZA,PSE,,1,51,51,5,-1.744186047,https://www.middleeaststar.com/news/273915095/un-palestinian-refugee-agency-appeals-for-substantial-funding-boost
+1117946051,,,,,REF,REFUGEE,,REF,1,51,51,5,-2.901023891,https://thecaribbeancamera.com/fast-tracking-work-permits-could-ease-refugee-shelter-crisis/
+1117946154,CAN,CANADA,CAN,,,,,,1,50,50,5,1.496147984,https://thecaribbeancamera.com/church-needs-volunteers-to-help-sort-donations-to-help-refugees/
+1117963542,DEU,GERMANY,DEU,,REF,REFUGEE,,REF,1,43,43,4,-1.60971986,https://www.middleeastmonitor.com/20230730-as-a-refugee-i-couldnt-defend-my-homeland-but-i-can-make-sure-syria-lives-on-in-my-art/
+1117965949,HLH,HOSPITAL,,HLH,,,,,1,20,20,2,-7.01754386,https://english.ahram.org.eg/NewsContent/2/8/505683/World/Region/Calm-restored-in-Palestinian-refugee-camp-in-Leban.aspx
+1117966726,,,,,LBN,LEBANON,LBN,,1,190,190,19,-10.35598706,https://www.i24news.tv/en/news/middle-east/levant-turkey/1690705065-assassination-attempt-leads-to-deadly-clashes-in-palestinian-refugee-camp
+1117966780,AFG,KABUL,AFG,,TUR,TURKISH,TUR,,1,46,46,4,-6.382978723,https://pajhwok.com/2023/07/30/refugee-problems-discussed-with-turkish-ambassador/
+1117967991,,,,,LBN,LEBANON,LBN,,1,10,10,1,-11.80124224,https://today.lorientlejour.com/article/1344881/one-dead-in-lebanon-palestinian-refugee-camp-clashes-fatah-official.html
+1117977446,LBN,BEIRUT,LBN,,PSE,PALESTINIAN,PSE,,1,190,190,19,-12.63527747,https://www.winnipegfreepress.com/world/2023/07/30/1-killed-6-wounded-in-overnight-clashes-in-crowded-palestinian-refugee-camp-in-lebanon
+1117981962,REF,REFUGEE,,REF,,,,,1,10,10,1,-1.01010101,https://woub.org/2023/07/24/from-refugee-to-a-world-renowned-athlete-the-story-of-guor-mading-maker-in-runner-july-30-at-11-pm/
+1117982955,CHRMAR,MARONITE,MAR,,GOV,PRESIDENT,,GOV,1,42,42,4,-1.612903226,https://www.naharnet.com:443/stories/en/299301-al-rahi-proposes-presidential-solution-says-syrian-refugees-occupying-country
+1117983150,LAB,WORKER,,LAB,SDN,SUDANESE,SDN,,1,60,60,6,0,https://www.bignewsnetwork.com/news/273915417/uae-aid-workers-deliver-more-food-assistance-to-sudanese-refugees-in-chad
+1117984067,ARE,EMIRATI,ARE,,SDN,SUDANESE,SDN,,1,73,73,7,0.5154639175,https://www.tag911.ae/news/local-news/uae-delivers-more-aid-to-sudanese-refugees-in-chad/
+1117989868,,,,,SWE,SWEDEN,SWE,,1,36,36,3,-5.797101449,https://www.siasat.com/sweden-re-examines-residency-of-iraqi-refugee-who-desecrated-quran-2654542/
+1117996100,CVL,NEIGHBORHOOD,,CVL,UAF,MILITANT,,UAF,1,75,75,7,-12.01795494,https://www.haaretz.com/middle-east-news/2023-07-30/ty-article/1-killed-6-wounded-in-overnight-clashes-in-crowded-palestinian-refugee-camp-in-lebanon/00000189-a659-df3e-a7eb-f75b2cff0000
+1117996354,LBN,LEBANON,LBN,,ISRREF,ISRAEL,ISR,REF,1,190,190,19,-12.59896202,https://www.ctvnews.ca/world/5-killed-6-wounded-in-overnight-clashes-in-crowded-palestinian-refugee-camp-in-lebanon-1.6499893
+1118009380,ISRREF,ISRAEL,ISR,REF,LBN,LEBANON,LBN,,1,190,190,19,-10.89028571,http://www.huewire.com/5-killed-in-clashes-at-palestinian-refugee-camp-in-lebanon/
+1118010977,LBN,LEBANON,LBN,,REF,REFUGEE,,REF,1,130,130,13,-5.817174515,https://yalibnan.com/2023/07/30/patriarch-rain-warns-that-the-refugees-are-occupying-lebanon/
+1118011948,,,,,LBN,LEBANON,LBN,,1,1124,112,11,-11.11144447,https://www.barrons.com/news/lebanon-clashes-kill-six-in-palestinian-refugee-camp-b02a88e2
+1118012256,ISR,ISRAEL,ISR,,UAF,MILITANT,,UAF,1,190,190,19,-7.586206897,https://www.newarab.com/news/death-toll-rises-5-lebanon-refugee-camp-clashes
+1118013308,,,,,MED,JOURNALIST,,MED,1,190,190,19,-10.40189125,https://www.france24.com/en/live-news/20230730-lebanon-clashes-kill-six-in-palestinian-refugee-camp
+1118013839,LBN,LEBANON,LBN,,ISRMIL,ISRAEL,ISR,MIL,1,190,190,19,-12.90322581,https://themedialine.org/headlines/fatah-officer-bodyguards-killed-amid-clashes-in-lebanese-refugee-camp/
+1118015317,ISR,ISRAEL,ISR,,,,,,1,10,10,1,-12.46505984,https://www.clickondetroit.com/news/world/2023/07/30/at-least-5-dead-and-7-wounded-in-clashes-inside-crowded-palestinian-refugee-camp-in-lebanon/
+1118019980,LBN,SIDON,LBN,,PSEREF,PALESTINIAN,PSE,REF,1,190,190,19,-11.50159744,https://timesofindia.indiatimes.com/world/middle-east/lebanon-clashes-kill-six-in-palestinian-refugee-camp/articleshow/102253684.cms
+1118022532,,,,,LBNREF,LEBANON,LBN,REF,1,190,190,19,-12.56544503,https://www.euronews.com/2023/07/30/six-killed-and-seven-injured-during-clashes-in-lebanon-refugee-camp
+1118022550,,,,,UAF,GUNMAN,,UAF,1,190,190,19,-12.78538813,https://morningstaronline.co.uk/article/w/five-killed-and-seven-wounded-clashes-palestinian-refugee-camp-lebanon
+1118024210,ISR,ISRAEL,ISR,,ISRMIL,ISRAEL,ISR,MIL,1,10,10,1,-11.19129231,https://www.startribune.com/at-least-5-dead-and-7-wounded-in-clashes-inside-crowded-palestinian-refugee-camp-in-lebanon/600293511/
+1118035864,ISRREF,ISRAEL,ISR,REF,LBN,LEBANON,LBN,,1,193,193,19,-2.958579882,https://www.timesofisrael.com/liveblog_entry/ceasefire-fails-to-halt-fighting-in-lebanon-refugee-camp/
+1118035979,PSE,PALESTINIAN,PSE,,,,,,1,190,190,19,-12.23395264,https://www.mykxlg.com/news/world/at-least-5-dead-and-7-wounded-in-clashes-inside-crowded-palestinian-refugee-camp-in/article_cd7830ad-af5d-56c8-898b-d82f50c411ae.html
+1118047948,LBN,LEBANON,LBN,,MED,JOURNALIST,,MED,1,190,190,19,-9.930715935,http://www.jordantimes.com/news/region/lebanon-clashes-kill-six-palestinian-refugee-camp
+1118048555,LAB,WORKER,,LAB,,,,,1,10,10,1,-11.76470588,https://www.voanews.com/a/un-says-19-000-sudanese-refugees-face-critical-challenges-arriving-in-south-sudan/7204236.html
+1118051246,,,,,LBN,LEBANON,LBN,,1,42,42,4,-12.62798635,https://www.dw.com/en/lebanon-several-killed-in-palestinian-refugee-camp-clashes/a-66391208
+1118054760,,,,,GOV,MINIST,,GOV,1,130,130,13,-3.378378378,https://www.businesspost.ie/politics/vacant-buildings-used-to-house-refugees-to-be-exempt-from-planning-permission-for-five-years/
+1118060180,CAN,CANADA,CAN,,,,,,1,12,12,1,-2.324603576,https://www.canadianlawyermag.com/practice-areas/tax/bc-judge-strikes-down-refugee-appeal-of-a-132-million-foreign-buyers-tax-on-66-million-home/378317
+1118062178,ISRREF,ISRAEL,ISR,REF,LBN,LEBANON,LBN,,1,190,190,19,-11.28437177,https://www.bignewsnetwork.com/news/273915921/at-least-five-killed-in-clashes-in-palestinian-refugee-camp-in-lebanon
+1118064172,BGD,BANGLADESH,BGD,,REF,REFUGEE,,REF,1,173,173,17,-6.603773585,https://timesofindia.indiatimes.com/city/agartala/2-held-in-tripura-for-role-in-trafficking-of-rohingya-refugees/articleshow/102258218.cms
+1118064302,CVL,COMMUNITY,,CVL,,,,,1,70,70,7,-0.3236654056,https://www.fox13now.com/back-to-school/group-helps-refugee-families-in-utah-prepare-for-school-year
+1118067692,,,,,USAGUM,GUAM,USA,,1,36,36,3,-0.8561643836,https://www.guampdn.com/news/anthropologist-who-came-to-guam-as-a-young-refugee-returns-48-years-later/article_a2a6f440-2f2b-11ee-84cc-53039cb8157b.html
+1118069424,LBN,LEBANON,LBN,,ISRREF,ISRAEL,ISR,REF,1,190,190,19,-11.52069615,https://www.firstpost.com/world/five-killed-in-clashes-in-palestinian-refugee-camp-in-lebanon-12936062.html
+1118071990,ISR,ISRAEL,ISR,,PSE,PALESTINIAN,PSE,,1,10,10,1,-8.768315018,https://www.tribuneindia.com/news/world/5-die-7-hurt-as-clashes-erupt-at-lebanon-refugee-camp-530626
+1118075371,,,,,LBN,LEBANON,LBN,,1,1124,112,11,-10.47915055,https://www.dawn.com/news/1767544/clashes-kill-six-in-lebanons-palestinian-refugee-camp
+1118075720,LBN,LEBANESE,LBN,,PSE,PALESTINIAN,PSE,,1,20,20,2,-2.558356676,https://www.thestatesman.com/world/lebanese-pm-calls-on-palestinian-leaders-to-help-restore-security-in-lebanons-refugee-camp-1503206494.html
+1118089120,,,,,REF,REFUGEE,,REF,1,42,42,4,-3.614457831,https://www.monitor.co.ug/uganda/news/education/how-eu-projects-spur-development-in-refugee-hosting-communities--4321486
+1118095435,LBN,SIDON,LBN,,LBNGOV,LEBANON,LBN,GOV,1,190,190,19,-10.67961165,https://www.thenews.com.pk/print/1095717-lebanon-clashes-kill-six-in-palestinian-refugee-camp
+1118096468,,,,,ISRREF,ISRAEL,ISR,REF,1,190,190,19,-13.46153846,https://www.siasat.com/5-killed-in-clashes-inside-palestinian-refugee-camp-in-lebanon-2655379/
+1118099074,IGOUNO,UNITED NATIONS,,IGO,REF,REFUGEE,,REF,1,51,51,5,-5.281045752,https://omaha.com/eedition/sunrise/articles/james-work-with-refugees-inspired-by-his-grandfather/article_d716a8dd-505d-59ef-afd8-550072e8a79c.html
+1118099221,LBN,LEBANON,LBN,,ISRREF,ISRAEL,ISR,REF,1,190,190,19,-11.80562833,https://saudigazette.com.sa/article/634616/World/Mena/Six-killed-at-Palestinian-refugee-camp-in-Lebanon
+1118103486,REF,REFUGEE,,REF,USA,UTAH,USA,,1,42,42,4,-4.089296636,https://95rockfm.com/ixp/341/p/refugees-utah-arriving/
+1118104619,,,,,LBN,LEBANON,LBN,,1,20,20,2,-3.754011028,https://famagusta-gazette.com/2023/07/31/lebanese-pm-calls-on-palestinian-leaders-to-help-restore-security-in-lebanons-refugee-camp/
+1118111592,ISRREF,ISRAEL,ISR,REF,LBN,LEBANON,LBN,,1,190,190,19,-12.47474747,https://www.usatoday.com/videos/news/nation/2023/07/31/deadly-clashes-palestinian-refugee-camp-lebanon/12302475002/
+1118112840,,,,,BGDREF,BANGLADESH,BGD,REF,1,51,51,5,1.777777778,https://gulfnews.com/business/corporate-news/kfaed-krcs-support-humanitarian-projects-for-rohingya-refugees-in-bangladesh-1.1690794634124
+1118113205,CVL,TOURIST,,CVL,REF,REFUGEE,,REF,1,51,51,5,-2.459016393,https://www.midwestradio.ie/index.php/news/69116-mayo-councillors-want-to-know-why-the-county-is-accommodating-significantly-more-refugees-and-asylum-seekers-than-galway-or-dublin
+1118124105,IRL,IRELAND,IRL,,CVL,COMMUNITY,,CVL,1,70,70,7,2.994011976,https://www.thecork.ie/2023/07/31/cork-software-company-zartis-backs-scholarships-to-refugees/
+1118124115,IRL,IRELAND,IRL,,REF,REFUGEE,,REF,1,180,180,18,-5.897114178,https://www.sundayworld.com/crime/courts/micheal-martin-warns-those-attacking-refugee-centres-will-face-full-rigours-of-law/a1301512780.html
+1118137539,UKR,UKRAINE,UKR,,SVK,SLOVAKIA,SVK,,1,192,192,19,-4.958677686,https://reliefweb.int/report/slovakia/unhcr-slovakia-ukraine-refugee-situation-operational-update-1-march-30-april-2023
+1118138907,,,,,MIL,MILITARY,,MIL,1,190,190,19,-11.32075472,https://article.wn.com/view/2023/07/31/Clashes_kill_six_in_Lebanon_s_Palestinian_refugee_camp/
+1118144706,IGOUNOWFP,WORLD FOOD PROGRAM,,IGO,REF,REFUGEE,,REF,1,162,162,16,-10.78167116,https://human-wrongs-watch.net/2023/07/31/funding-crunch-forces-wfp-to-halve-food-rations-for-refugees-amidst-worsening-hunger-in-malawi/
+1118147692,,,,,IRNREF,IRANIAN,IRN,REF,1,841,84,8,-0.6825938567,https://bianet.org/english/lgbti/282196-detained-during-pride-parade-iranian-refugee-released-from-deportation-center-after-a-month
+1118149512,,,,,COP,SECURITY FORCE,,COP,1,190,190,19,-8.279430789,https://www.al-monitor.com/originals/2023/07/whats-behind-palestinian-violence-lebanons-ain-al-hilweh-refugee-camp
+1118152507,MEX,MEXICO,MEX,,REF,REFUGEE,,REF,1,75,75,7,-2.793296089,https://www.amren.com/news/2023/07/white-house-agrees-to-accept-more-foreign-nationals-living-in-mexico-as-refugees/
+1118152590,NGOHLHIRC,RED CRESCENT,,NGO,ARE,EMIRATI,ARE,,1,111,111,11,-4.115226337,https://www.zawya.com/en/world/middle-east/erc-conducts-ready-5-mock-exercise-at-emirati-jordanian-camp-for-syrian-refugees-enznnm5b
+1118154860,JOR,AMMAN,JOR,,ARE,EMIRATI,ARE,,1,111,111,11,-4.048582996,https://www.bignewsnetwork.com/news/273916395/erc-conducts-ready-5-mock-exercise-at-emirati-jordanian-camp-for-syrian-refugees
+1118155209,REF,REFUGEE,,REF,,,,,1,33,33,3,0.7407407407,https://news.yahoo.com/refugees-support-homes-oxfordshire-council-125719227.html
+1118170046,CVL,NEIGHBOURHOOD,,CVL,PSE,PALESTINIAN,PSE,,1,190,190,19,-8.407079646,https://www.middleeastmonitor.com/20230731-fatah-officer-killed-in-lebanon-refugee-camp/
+1118170965,ISRREF,ISRAEL,ISR,REF,LBN,LEBANON,LBN,,1,190,190,19,-6.64556962,https://www.middleeastmonitor.com/20230731-death-toll-from-clashes-at-palestine-refugee-camp-in-lebanon-rises-to-9/
+1118171369,TCD,CHAD,TCD,,SDN,SUDAN,SDN,,1,25,25,2,-12.93103448,https://www.democracynow.org/2023/7/31/headlines/sudanese_refugees_in_chad_struggle_amid_extreme_heat_and_water_scarcity
+1118172413,GBR,UNITED KINGDOM,GBR,,REF,ASYLUM SEEKER,,REF,1,20,20,2,-8.503401361,https://leftfootforward.org/2023/07/refugee-charity-slams-suella-bravermans-cruel-proposal-to-house-asylum-seekers-in-tents/
+1118188428,,,,,LBN,LEBANON,LBN,,1,190,190,19,-9.427393569,https://www.thenews.com.pk/latest/1095900-9-killed-in-palestinian-refugee-camp-amid-clashes-in-lebanon
+1118193749,,,,,BGD,BANGLADESH,BGD,,1,43,43,4,-1.585875184,https://reliefweb.int/report/india/acaps-briefing-note-india-myanmar-refugees-28-july-2023
+1118199800,MIL,MILITARY OFFICER,,MIL,ISR,ISRAEL,ISR,,1,186,186,18,-12.74900398,https://www.mangalorean.com/5-killed-in-armed-clashes-in-palestinian-refugee-camp-in-lebanon/
+1118212561,IGOUNO,UNITED NATIONS,,IGO,MIL,ARMY,,MIL,1,874,87,8,-7.10947198,https://www.marketscreener.com/news/latest/Darfur-refugees-in-Chad-scramble-for-shelter-as-rainy-season-starts--44471495/
+1118212568,IGOUNOREFHCR,UNHCR,,IGO,,,,,1,50,50,5,-2.234636872,https://www.zawya.com/en/press-release/africa-press-releases/japan-and-united-nations-high-commissioner-for-refugees-unhcr-support-refugees-in-sudan-600k-in-emergency-aid-y50nfsxe
+1118214286,IGOUNOREFHCR,UNHCR,,IGO,,,,,1,50,50,5,-2.034883721,https://african.business/2023/07/apo-newsfeed/japan-and-united-nations-high-commissioner-for-refugees-unhcr-support-refugees-in-sudan-600k-in-emergency-aid-to-the-unhcr
+1118223144,AFR,AFRICA,AFR,,IGOUNO,UNITED NATIONS,,IGO,1,70,70,7,-1.937046005,https://www.africa-newsroom.com/press/japan-and-united-nations-high-commissioner-for-refugees-unhcr-support-refugees-in-sudan-600k-in-emergency-aid-to-the-unhcr
+1118223933,UKR,UKRAINE,UKR,,REF,REFUGEE,,REF,1,80,80,8,0.2057613169,https://praguemonitor.com/czechia/31/07/2023/the-czech-interior-ministry-will-extend-temporary-protection-for-ukrainian-refugees/
+1118228656,AFG,AFGHAN,AFG,,,,,,1,192,192,19,-1.923076923,https://www.britainnews.net/news/273916825/number-of-afghan-refugees-in-uk-given-permanent-housing-rises
+1118230738,,,,,ISR,ISRAEL,ISR,,1,17,17,1,-7.172413793,https://kdhnews.com/news/world/thousands-mourn-a-palestinian-general-among-9-killed-in-sectarian-clashes-at-a-lebanon-refugee/article_d1455b87-f4a6-5079-b856-ee8830b236af.html
+1118237008,EDU,SCHOOL,,EDU,,,,,1,90,90,9,-5.633802817,https://www.miragenews.com/unrwa-lebanon-refugee-camp-violence-kills-11-1057315/
+1118238843,GOV,AMBASSADOR,,GOV,SYR,SYRIAN,SYR,,1,43,43,4,0,http://www.jordantimes.com/news/local/japan-contributes-25m-support-syrian-refugees-jordan
+1118244144,AUS,AUSTRALIA,AUS,,EGY,EGYPT,EGY,,1,43,43,4,-7.120253165,https://www.theguardian.com/world/2023/aug/01/egyptian-refugee-sayed-abdellatif-cleared-as-security-threat-by-asio-but-still-detained-after-11-years
+1118246422,MWI,MALAWI,MWI,,,,,,1,51,51,5,0.8547008547,https://www.nyasatimes.com/malawi-parliamentary-committee-approves-refugee-relocation-camp/
+1118246469,REF,ASYLUM SEEKER,,REF,MIL,MILITARY,,MIL,1,10,10,1,-4.192872117,https://metro.co.uk/2023/07/31/fire-safety-fears-delay-refugees-moving-onto-bibby-stockholm-barge-19224524/
